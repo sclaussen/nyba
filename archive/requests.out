@@ -1,0 +1,194 @@
+   g4:j2     b6:j1
+ 1 HH9:30    HH10:40
+ 2 t1        @t1
+ 3 t1        @c
+ 4 HA9:30    HA10:40
+ 6 c         @t2
+ 7 y         @y2
+ 8 HC9:30    HC10:40
+10 HC9:30    HC10:40
+
+  b45:a2 b6:a1
+1        t1
+2 H
+3
+4 j1     j1
+5 c2     c
+6
+7 c3
+8 j2    j2
+
+
+
+
+
+g4:c
+        No home weeks: 4
+        Notes: nohome4
+g4:t1
+        Fixed home weeks: 1,2
+        Notes: double1and2
+g4:t2
+        Byes: 1,2
+        Notes: bye1and2
+g4:j1
+        Byes: 5,9
+        Fixed home weeks: 8,10
+        No home weeks: 7
+        Notes: off5and9, double8and10, nohome7
+g4:j2
+        Byes: 5,9
+        Fixed home weeks: 1,4,8,10
+        No home weeks: 7
+        Notes: cor-g4j2-b6j1, off5and9, double8and10, nohome7
+g56:a1
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+g56:a2
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+g56:c
+        No home weeks: 4
+        Notes: nohome4
+g56:j1
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+g56:j2
+        Byes: 5,9
+        Fixed home weeks: 8,10
+        No home weeks: 7
+        Notes: off5and9, double8and10, nohome7
+g56:t1
+        Fixed home weeks: 1,2
+        Notes: double1and2
+g56:t2
+        Fixed home weeks: 1,2
+        Notes: double1and2
+g56:t3
+        Byes: 4
+        Fixed home weeks: 1,2
+        Notes: double1and2, bye4
+g789:a
+        Byes: 8,10
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9, bye8and10
+g789:c
+        No home weeks: 4
+        Notes: nohome4
+g789:j
+        Byes: 5,9
+        Fixed home weeks: 8,10
+        No home weeks: 7
+        Notes: off5and9, double8and10, nohome7
+g789:t1
+        Fixed home weeks: 1,2
+        Notes: double1and2
+g789:t2
+        Fixed home weeks: 1,2
+        Notes: double1and2
+b45:a1
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+b45:a2
+        Fixed home weeks: 2,3,6,10
+        No home weeks: 5,8,9
+        Notes: cor-b45a2-b6a1, nohome5and8and9
+b45:a3
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+b45:c1
+        No home weeks: 4
+        Notes: nohome4
+b45:c2
+        No home weeks: 4
+        Notes: nohome4
+b45:c3
+        No home weeks: 4
+        Notes: nohome4
+b45:j1
+        Byes: 5,9
+        No home weeks: 7,8,10
+        Notes: off5and9, double8and10, nohome7
+b45:j2
+        Byes: 5,9
+        Fixed home weeks: 8,10
+        No home weeks: 7
+        Notes: off5and9, double8and10, nohome7
+b45:j3
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+b45:j4
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+b45:t1
+        Fixed home weeks: 1,2
+        Notes: double1and2
+b45:t2
+        No home weeks: 1,2
+        Notes: double1and2
+b6:a1
+        Fixed home weeks: 2,3,6,10
+        No home weeks: 5,8,9
+        Notes: cor-b45a2-b6a1, nohome5and8and9
+b6:a2
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+b6:c
+        No home weeks: 4
+        Notes: nohome4
+b6:j1
+        Byes: 5,9
+        Fixed home weeks: 1,4,8,10
+        No home weeks: 7
+        Notes: cor-g4j2-b6j1 off5and9, double8and10, nohome7
+b6:j2
+        Byes: 5,9
+        Fixed home weeks: 8,10
+        No home weeks: 7
+        Notes: off5and9, double8and10, nohome7
+b6:t1
+        Fixed home weeks: 1,2
+        Notes: double1and2
+b6:t2
+        Fixed home weeks: 1,2
+        Notes: double1and2
+b7:a
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+b7:c
+        No home weeks: 4
+        Notes: nohome4
+b7:j1
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+b7:j2
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+b7:t
+        No home weeks: 1,2
+        Notes: double1and2
+b89:a
+        No home weeks: 5,8,9
+        Notes: nohome5and8and9
+b89:c
+        No home weeks: 4
+        Notes: nohome4
+b89:j1
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+b89:j2
+        Byes: 5,9
+        Fixed home weeks: 7,8,10
+        Notes: off5and9, double8and10, jamboree7
+b89:t1
+        Fixed home weeks: 1,2
+        Notes: double1and2
+b89:t2
+        Byes: 1,2
+        Notes: bye1and2

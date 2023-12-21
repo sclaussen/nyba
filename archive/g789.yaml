@@ -1,0 +1,6200 @@
+- id: 1
+  score: 10
+  hash: 2ca5d7ab3f9473bf3e4ea114075ee294a27d22271500108f8aba206fe6d67bc9
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+- id: 2
+  score: 10
+  hash: a0b3c9840b92ff244bef201c4154c0a98fe259f7ecbf5a47cc3c8fbaf4da10e4
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+- id: 3
+  score: 10
+  hash: 42e343bd0e8b83c2c9c55e0ef63deeb88f743c3afebc50d45f13a66a50e909ed
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+- id: 4
+  score: 10
+  hash: e91ecbd8504104aea6c5038ca31a269c9e56bc584cec5dc6fe94716b55ac219f
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+- id: 5
+  score: 10
+  hash: d5227fa0bc5472f43424f8d704af676dafeb088bc83e46662dfb7927092e5283
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+- id: 6
+  score: 10
+  hash: 101e26b60e6ca53aced300b37050d733dc5401ff2bf51c11ca3109bc1ee542d0
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+- id: 7
+  score: 10
+  hash: 913088d895d4f98c0053f4c2621b878f18370b54ea2af92267e2c9b4dc38ecbf
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 8
+  score: 10
+  hash: 19b4aa0ac776b30a8c407fea08f45a755f0dbbd2daf1f26bd63da4183879cf3c
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 2
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+- id: 9
+  score: 10
+  hash: e1a59871d62ab489e36508073c8af27f2528aeb3798ef04f3aae195ea7f604cd
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 2
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+- id: 10
+  score: 10
+  hash: 2772434e14e21193507e1fc10ab88f4b0a47400e8ed3372a646a0018252f3cd6
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+- id: 11
+  score: 10
+  hash: 520546fdfdc52ffbee726bf0f31a8cccb1cd4bdd6c2c581ce9f0d09cea98e438
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+- id: 12
+  score: 10
+  hash: 880761dc1dffe1289cf511d359e316a65485383637b702e7490ffa6c4ac1d720
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+- id: 13
+  score: 10
+  hash: fcdb86461ef511db71342a6ae4133d5ffd2657eb65fb9a64196a7493b7827721
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+- id: 14
+  score: 12
+  hash: 682723ae0dcbb79ab81443e5c824105281b69deffcb2be043981d805937ea406
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 15
+  score: 14
+  hash: 22da0ecd3a4a60614a2582dcde20bcd968b0b9c2be9146555cd9c3507c34b283
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+- id: 16
+  score: 14
+  hash: 04b042014bc52b5041031b73be80d12eb74b5bf440c63a07fd8cdca6af686e75
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+- id: 17
+  score: 14
+  hash: 4474a02c0dbe2ce34cf8c957e3113264842c0cf868bd210ff10c59f2b3a1778d
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+- id: 18
+  score: 14
+  hash: 12201c1e0f4306747bf7f5d3415830ac2dad97270ed34efc0aad72ac14583f16
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+- id: 19
+  score: 14
+  hash: 509928d13ccb3619958921675bb9d877dbc44f6bc4e7aface7c329acafba2717
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+- id: 20
+  score: 14
+  hash: f1bd5a83cf781464bd97f101f4f8d34c493dab766f32b97b9dd708906a8692a3
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+- id: 21
+  score: 14
+  hash: 53429ba61316acb81857385e9b94d08926b0d1c3798c7db1eb78d606bfd68af7
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+- id: 22
+  score: 14
+  hash: ef47421ef852f3d97b4332f6863a5c36923399a53a59eb8a021f756c244fcae3
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+- id: 23
+  score: 14
+  hash: 1497c6bc87d1c03575e6e9817ebddc99c56b9db1e8952b23f9898a21390a6b67
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+- id: 24
+  score: 14
+  hash: 8710d22d4dc8f3edff1f9192bf9108708dd3457c3211d928290449c8c2b3d6c0
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+- id: 25
+  score: 14
+  hash: 776f9d78d0b27b0dcddc50a839c7bce28ddb98c7725591b4bc7b37597d373542
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+- id: 26
+  score: 14
+  hash: 537cf1952934a473036e59e1e35af192375377e7227827f1ffa3f670c3020374
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+- id: 27
+  score: 14
+  hash: 63dd3f298e7cdc4901a9e0f5f7fe4f1a504bf96f268df6f26228e82aca4f1b27
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 2
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+- id: 28
+  score: 14
+  hash: 800b4bf07f249c1f9aee658b436298ad837ad4c4d2475680b0ecee78c24d0947
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 29
+  score: 14
+  hash: 4a571ec6c9978dd803f90119adda6b9ab68a609d53de64986298eb654bab9eea
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 30
+  score: 14
+  hash: 8734bf5494cad36b2d2fb0ba3de2134497e320f9c9ae04d94a514d497da599f6
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 31
+  score: 14
+  hash: 6a3a4bc1261d9c6c88800022b2ea5a18972162f33e97fa615bfbfb5655693701
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+- id: 32
+  score: 14
+  hash: 8774f8f221f9a0655c75664c8901b5596ccae2cd0197dc1e3eab945803696492
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 10
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+- id: 33
+  score: 14
+  hash: d9adf4995b568af15a38d386dc4953ca77fd7996bd454dc1d3c9d564f8e4a954
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 34
+  score: 14
+  hash: 34afff0d67aa148532dcae1437a74e12cd8f79e486c10bff6bce864fcb6bcdf5
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 35
+  score: 14
+  hash: e8845ebee86a4a5a80b3a94100653cd1cc1bd8b222d51a6fc375431c474e3255
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+- id: 36
+  score: 14
+  hash: aff44109fd233b24bb2a6c7ed1be322cbeabdf1b372432eb8a28cfdb353b2a51
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 2
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+- id: 37
+  score: 14
+  hash: 6e17dcfd04baa6b6029ff9893f11bc8243f64c14e7919a1f14f1a3c2a99f0361
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 8
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 7
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+- id: 38
+  score: 14
+  hash: 851c25fb51ad1976f2da13175d4b3420da59a882ad5bd9b6b38f4befd228315f
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 2
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 6
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+- id: 39
+  score: 14
+  hash: 33748192ddbe87fe80db34e9a1817660d97c2c1246cdf8a7b51735be4d5394a5
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+- id: 40
+  score: 14
+  hash: 9a20b7e3a5e4838d3507daab0607e16a96e973e5d9fb27e54f1daa1f5d0efcd2
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+- id: 41
+  score: 14
+  hash: a8cb301279a52679f22d746f228d0885f9786c90bf033fa616cca12743131c55
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+- id: 42
+  score: 14
+  hash: 15678d055da0a1f9436c690f12d16e5ea18df9c7329d1f014ef6d7857b921305
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 1
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 6
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 9
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+- id: 43
+  score: 14
+  hash: 207f25cf18003c17fd822d9f53a9c535a4642e16ea3eed5784d3e91ecf851109
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+- id: 44
+  score: 14
+  hash: 2465bedeea24a3e1d75f62d15b13c103397b7790b951beddff14dcc27c6802a4
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 8
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 10
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: j
+      awayTeam: y
+      gym: j
+- id: 45
+  score: 14
+  hash: 8c713da728b62d281be7b303a81365460a260c4882dcec9f0612096183e0dd91
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: y
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+- id: 46
+  score: 14
+  hash: 292afc72f58b335e6b1369a2c6c1173377d7b8845bdd7304c854af9c456ebe81
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: y
+      gym: c
+- id: 47
+  score: 14
+  hash: cb1d4dcf27a2b13a22503d5110ceac6b5a64c07a597b08ad01d555dea06805ee
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: y
+      gym: c
+- id: 48
+  score: 14
+  hash: 65048ce38a7c5747dbaa81d28d7a8b62e8b3ec4b8ce959d1a41ac576c197403d
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+- id: 49
+  score: 14
+  hash: 5acddf97655cdffe63277c846ef5b5a56653bbb7ba3f1b45f08894bc20dd066e
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: y
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: a
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: j
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: t1
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+- id: 50
+  score: 14
+  hash: f1f7bf5971221a152e1527b3fd3cd48954f95edef3cbad33560cf28fceb9d8ef
+  schedule:
+    - league: g789
+      week: 8
+      homeTeam: j
+      awayTeam: t2
+      gym: j
+    - league: g789
+      week: 10
+      homeTeam: j
+      awayTeam: c
+      gym: j
+    - league: g789
+      week: 1
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t1
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 1
+      homeTeam: t2
+      awayTeam: j
+      gym: t
+    - league: g789
+      week: 2
+      homeTeam: t2
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 4
+      homeTeam: t1
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 5
+      homeTeam: t1
+      awayTeam: a
+      gym: t
+    - league: g789
+      week: 9
+      homeTeam: y
+      awayTeam: t1
+      gym: y
+    - league: g789
+      week: 7
+      homeTeam: y
+      awayTeam: j
+      gym: y
+    - league: g789
+      week: 2
+      homeTeam: y
+      awayTeam: c
+      gym: y
+    - league: g789
+      week: 5
+      homeTeam: y
+      awayTeam: t2
+      gym: y
+    - league: g789
+      week: 1
+      homeTeam: a
+      awayTeam: c
+      gym: a
+    - league: g789
+      week: 6
+      homeTeam: a
+      awayTeam: t2
+      gym: a
+    - league: g789
+      week: 3
+      homeTeam: a
+      awayTeam: y
+      gym: a
+    - league: g789
+      week: 7
+      homeTeam: a
+      awayTeam: t1
+      gym: a
+    - league: g789
+      week: 4
+      homeTeam: t2
+      awayTeam: c
+      gym: t
+    - league: g789
+      week: 10
+      homeTeam: t2
+      awayTeam: y
+      gym: t
+    - league: g789
+      week: 3
+      homeTeam: j
+      awayTeam: t1
+      gym: j
+    - league: g789
+      week: 4
+      homeTeam: j
+      awayTeam: a
+      gym: j
+    - league: g789
+      week: 6
+      homeTeam: c
+      awayTeam: j
+      gym: c
+    - league: g789
+      week: 7
+      homeTeam: c
+      awayTeam: t2
+      gym: c
+    - league: g789
+      week: 9
+      homeTeam: c
+      awayTeam: a
+      gym: c
+    - league: g789
+      week: 8
+      homeTeam: c
+      awayTeam: t1
+      gym: c

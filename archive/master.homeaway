@@ -1,0 +1,73 @@
+
+Girls 4th (G4)         	CYS C       	TriCity T1  	TriCity T2  	JYO J1 Black	JYO J2 Red  	YAO Y       	
+CYS C                  	-           	1           	1           	1           	1           	            	
+TriCity T1             	1           	-           	            	1           	1           	1           	
+TriCity T2             	1           	            	-           	1           	1           	1           	
+JYO J1 Black           	1           	1           	1           	-           	            	1           	
+JYO J2 Red             	1           	1           	1           	            	-           	1           	
+YAO Y                  	            	1           	1           	1           	1           	-           	
+
+Girls 5th/6th (G3)     	Assoc A1    	Assoc A2    	CYS C       	JYO J1 Black	JYO J2 Red  	TriCity T1  	TriCity T2  	TriCity T3  	YAO Y       	
+Assoc A1               	-           	            	            	1           	1           	            	1           	1           	            	
+Assoc A2               	            	-           	            	1           	1           	            	            	1           	1           	
+CYS C                  	            	            	-           	            	1           	1           	1           	1           	            	
+JYO J1 Black           	            	1           	            	-           	            	1           	1           	            	1           	
+JYO J2 Red             	            	1           	            	            	-           	1           	1           	1           	            	
+TriCity T1             	1           	            	1           	            	1           	-           	            	            	1           	
+TriCity T2             	1           	1           	1           	1           	            	            	-           	            	            	
+TriCity T3             	1           	            	1           	1           	            	            	            	-           	1           	
+YAO Y                  	1           	1           	1           	            	            	1           	            	            	-           	
+
+Girls 7th/8th/9th (G2) 	Assoc A     	CYS C       	JYO J Black 	TriCity T1  	TriCity T2  	YAO Y       	
+Assoc A                	-           	1           	1           	1           	1           	            	
+CYS C                  	1           	-           	1           	1           	1           	            	
+JYO J Black            	1           	            	-           	1           	1           	1           	
+TriCity T1             	1           	1           	1           	-           	            	1           	
+TriCity T2             	            	1           	1           	            	-           	2           	
+YAO Y                  	1           	1           	            	1           	1           	-           	
+
+Boys 4th/5th (DA)      	Assoc A1    	Assoc A2    	Assoc A3    	CYS C1      	CYS C2      	CYS C3      	JYO J1 Black	JYO J2 Red  	JYO J3 Green	JYO J4 White	TriCity T1  	TriCity T2  	YAO Y1      	YAO Y2      	
+Assoc A1               	-           	            	            	1           	1           	1           	            	            	            	1           	            	            	            	            	
+Assoc A2               	            	-           	            	            	            	            	            	            	            	1           	1           	1           	1           	            	
+Assoc A3               	            	            	-           	            	            	            	1           	            	            	1           	            	1           	            	1           	
+CYS C1                 	            	            	            	-           	            	            	            	            	            	1           	1           	1           	            	1           	
+CYS C2                 	            	1           	1           	            	-           	            	            	            	1           	            	1           	            	            	            	
+CYS C3                 	            	1           	1           	            	            	-           	1           	            	1           	            	            	            	            	            	
+JYO J1 Black           	1           	1           	            	1           	1           	            	-           	            	            	            	            	            	            	            	
+JYO J2 Red             	1           	1           	1           	            	            	1           	            	-           	            	            	            	            	            	            	
+JYO J3 Green           	            	            	            	1           	            	            	            	            	-           	            	1           	1           	1           	            	
+JYO J4 White           	1           	            	            	            	1           	1           	            	            	            	-           	            	            	            	1           	
+TriCity T1             	            	            	            	            	            	            	            	1           	1           	            	-           	            	1           	1           	
+TriCity T2             	            	            	            	            	            	            	1           	1           	1           	            	            	-           	1           	            	
+YAO Y1                 	1           	            	1           	1           	            	            	            	1           	            	            	            	            	-           	            	
+YAO Y2                 	            	            	            	            	1           	1           	1           	1           	            	            	            	            	            	-           	
+
+Boys 6th (DN)          	Assoc A1    	Assoc A2    	CYS C       	JYO J1 Black	JYO J2 Red  	TriCity T1  	TriCity T2  	YAO Y1      	YAO Y2      	
+Assoc A1               	-           	            	1           	            	            	            	1           	1           	1           	
+Assoc A2               	            	-           	1           	1           	            	1           	1           	            	            	
+CYS C                  	1           	1           	-           	1           	1           	            	            	            	            	
+JYO J1 Black           	1           	            	            	-           	            	1           	1           	1           	            	
+JYO J2 Red             	1           	            	            	            	-           	1           	            	1           	1           	
+TriCity T1             	1           	1           	            	            	1           	-           	            	            	1           	
+TriCity T2             	            	            	1           	            	1           	            	-           	1           	1           	
+YAO Y1                 	            	1           	1           	1           	            	1           	            	-           	            	
+YAO Y2                 	            	1           	            	1           	1           	            	1           	            	-           	
+
+Boys 7th (CA)          	Assoc A     	CYS C       	JYO J1 Black	JYO J2 Red  	TriCity T   	YAO Y1      	YAO Y2      	
+Assoc A                	-           	1           	1           	            	1           	            	1           	
+CYS C                  	            	-           	1           	1           	1           	1           	            	
+JYO J1 Black           	            	1           	-           	            	1           	1           	1           	
+JYO J2 Red             	1           	1           	            	-           	            	1           	1           	
+TriCity T              	1           	1           	            	1           	-           	1           	            	
+YAO Y1                 	1           	            	1           	1           	            	-           	1           	
+YAO Y2                 	1           	            	1           	1           	1           	            	-           	
+
+Boys 8th/9th (CN)      	Assoc A     	CYS C       	JYO J1 Black	JYO J2 Red  	TriCity T1  	TriCity T2  	YAO Y1      	YAO Y2      	
+Assoc A                	-           	1           	1           	1           	            	            	1           	            	
+CYS C                  	            	-           	            	1           	            	1           	1           	1           	
+JYO J1 Black           	            	1           	-           	            	1           	1           	            	1           	
+JYO J2 Red             	            	            	            	-           	1           	1           	1           	1           	
+TriCity T1             	1           	1           	1           	1           	-           	            	            	            	
+TriCity T2             	1           	            	            	1           	            	-           	1           	1           	
+YAO Y1                 	1           	1           	1           	            	1           	            	-           	            	
+YAO Y2                 	1           	            	1           	            	1           	1           	            	-           	

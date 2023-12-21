@@ -1,0 +1,189 @@
+
+transaction.js,50
+function commit(18,361
+function rollback(23,433
+
+config/session.yaml,2148
+    notes: cor-g4j2-b6j1,b6j1127,1950
+    notes: cor-g4j2-b6j1, off5and9,127,1950
+    notes: cor-g4j2-b6j1, off5and9, double8and10,127,1950
+    notes: off5and9,165,2564
+    notes: off5and9, double8and10,165,2564
+    notes: off5and9,355,5502
+    notes: off5and9, double8and10,355,5502
+    notes: off5and9,394,6117
+    notes: off5and9, double8and10,394,6117
+    notes: double1and2,506,7884
+    notes: nohome5and8and9,584,9084
+    notes: off5and9,660,10264
+    notes: off5and9, double8and10,660,10264
+    notes: cor-b45a2-b6a1,b6a1850,13229
+    notes: off5and9,1040,16167
+    notes: off5and9, double8and10,1040,16167
+    notes: off5and9,1078,16768
+    notes: off5and9, double8and10,1078,16768
+    notes: off5and9,1116,17371
+    notes: off5and9, double8and10,1116,17371
+    notes: off5and9,1155,17988
+    notes: off5and9, double8and10,1155,17988
+    notes: cor-b45a2-b6a1,b6a11346,20956
+    notes: off5and9,1460,22722
+    notes: off5and9, double8and10,1460,22722
+    notes: cor-g4j2-b6j1,b6j11500,23338
+    notes: cor-g4j2-b6j1, off5and9,1500,23338
+    notes: cor-g4j2-b6j1, off5and9, double8and10,1500,23338
+    notes: off5and9,1766,27460
+    notes: off5and9, double8and10,1766,27460
+    notes: off5and9,1805,28070
+    notes: off5and9, double8and10,1805,28070
+    notes: off5and9,2034,31608
+    notes: off5and9, double8and10,2034,31608
+    notes: off5and9,2073,32223
+    notes: off5and9, double8and10,2073,32223
+    address: 1840 Sutter St,2471,38498
+    address: 1840 Sutter St, San Francisco,2471,38498
+    address: 1840 Sutter St,2478,38670
+    address: 1840 Sutter St, San Francisco,2478,38670
+    address: 1840 Sutter St,2485,38842
+    address: 1840 Sutter St, San Francisco,2485,38842
+    address: 1840 Sutter St,2492,39013
+    address: 1840 Sutter St, San Francisco,2492,39013
+    address: 1840 Sutter St,2499,39184
+    address: 1840 Sutter St, San Francisco,2499,39184
+    address: 1840 Sutter St,2506,39355
+    address: 1840 Sutter St, San Francisco,2506,39355
+    address: 1840 Sutter St,2513,39526
+    address: 1840 Sutter St, San Francisco,2513,39526
+    name: Wilcox High 2519,39682
+
+config/teams.yaml,1316
+  notes: cor-g4j2-b6j1,b6j136,643
+  notes: cor-g4j2-b6j1, off5and9,36,643
+  notes: cor-g4j2-b6j1, off5and9, double8and10,36,643
+  notes: off5and9,45,852
+  notes: off5and9, double8and10,45,852
+  notes: off5and9,90,1709
+  notes: off5and9, double8and10,90,1709
+  notes: off5and9,99,1907
+  notes: off5and9, double8and10,99,1907
+  notes: double1and2,126,2439
+  notes: nohome5and8and9,144,2766
+  notes: off5and9,162,3121
+  notes: off5and9, double8and10,162,3121
+  notes: cor-b45a2-b6a1,b6a1207,3981
+  notes: off5and9,252,4841
+  notes: off5and9, double8and10,252,4841
+  notes: off5and9,261,5037
+  notes: off5and9, double8and10,261,5037
+  notes: off5and9,270,5235
+  notes: off5and9, double8and10,270,5235
+  notes: off5and9,279,5437
+  notes: off5and9, double8and10,279,5437
+  notes: cor-b45a2-b6a1,b6a1324,6268
+  notes: off5and9,351,6797
+  notes: off5and9, double8and10,351,6797
+  notes: cor-g4j2-b6j1,b6j1360,6997
+  notes: cor-g4j2-b6j1, off5and9,360,6997
+  notes: cor-g4j2-b6j1, off5and9, double8and10,360,6997
+  notes: off5and9,423,8169
+  notes: off5and9, double8and10,423,8169
+  notes: off5and9,432,8365
+  notes: off5and9, double8and10,432,8365
+  notes: off5and9,486,9360
+  notes: off5and9, double8and10,486,9360
+  notes: off5and9,495,9558
+  notes: off5and9, double8and10,495,9558
+
+config/gymSchedule.yaml,608
+  address: 1840 Sutter St,6,58
+  address: 1840 Sutter St, San Francisco,6,58
+  address: 1840 Sutter St,13,216
+  address: 1840 Sutter St, San Francisco,13,216
+  address: 1840 Sutter St,20,374
+  address: 1840 Sutter St, San Francisco,20,374
+  address: 1840 Sutter St,27,531
+  address: 1840 Sutter St, San Francisco,27,531
+  address: 1840 Sutter St,34,688
+  address: 1840 Sutter St, San Francisco,34,688
+  address: 1840 Sutter St,41,845
+  address: 1840 Sutter St, San Francisco,41,845
+  address: 1840 Sutter St,48,1002
+  address: 1840 Sutter St, San Francisco,48,1002
+  name: Wilcox High 55,1147
+
+flexibleAwayGames.js,97
+function scheduleFlexibleAwayGames(22,526
+function scheduleFlexibleAwayGamesForDivision(30,854
+
+nyba.js,95
+function homeCacheInit(75,2514
+function awayCacheInit(110,3723
+function printCache(121,4245
+
+TAGS,46
+function commit(3,20
+function rollback(4,44
+
+gameCapacity.js,118
+function getGameCapacity(17,391
+function getWeeklyGameCapacityForDivisionAndWeek(43,1319
+function getGroup(57,1828
+
+package-lock.json,27
+    "requires": true,5,72
+
+schedule.js,181
+function homeGameNoOpponent(18,424
+function homeGameWithOpponent(56,1887
+function awayGameNoOpponent(69,2423
+function awayGameWithOpponent(77,2719
+function printCache(139,5080
+
+lib/util.js,159
+function weekToDate(20,402
+function orgFull(54,985
+function teamFull(73,1262
+function leagueFull(81,1454
+function center(106,1971
+function left(113,2160
+
+lib/exit.js,19
+function exit(1,0
+
+lib/pr.js,165
+function p(9,132
+function p4(33,573
+function y(52,953
+function y4(70,1264
+function e(88,1603
+function e4(106,1943
+function ex(124,2302
+function ex4(142,2640
+
+lib/print.js,60
+function gameCapacity(17,371
+function gymCapacity(38,1193
+
+flexibleHomeGames.js,164
+function flexibleHomeGames(22,568
+function flexibleHomeGamesAttempt(38,909
+function scheduleFlexibleHomeGame(70,1969
+function getOrganizationToSchedule(95,3087
+
+fixedHomeGames.js,63
+function fixedHomeGames(20,468
+function fixedHomeGame(30,776
+
+leagueGameCapacity.yaml,0
+
+package.json,0
+
+README.md,0
+
+config/schedule.yaml,0
+
+config/gymCapacity.yaml,0
+
+config/gameCapacity.yaml,0
+
+config/pairs.yaml,0

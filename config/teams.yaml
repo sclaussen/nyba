@@ -1,0 +1,531 @@
+- division: g4
+  name: c
+  organization: c
+  qualifiedName: g4:c
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: g4
+  name: t1
+  organization: t
+  qualifiedName: g4:t1
+  fullname: blue
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: g4
+  name: t2
+  organization: t
+  qualifiedName: g4:t2
+  fullname: white
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: bye1and2
+- division: g4
+  name: j1
+  organization: j
+  qualifiedName: g4:j1
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: cor-g4j2-b6j1, off5and9, double8and10, nohome7
+- division: g4
+  name: j2
+  organization: j
+  qualifiedName: g4:j2
+  fullname: red
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: off5and9, double8and10, nohome7
+- division: g4
+  name: y
+  organization: y
+  qualifiedName: g4:y
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: g56
+  name: a1
+  organization: a
+  qualifiedName: g56:a1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: g56
+  name: a2
+  organization: a
+  qualifiedName: g56:a2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: g56
+  name: c
+  organization: c
+  qualifiedName: g56:c
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: g56
+  name: j1
+  organization: j
+  qualifiedName: g56:j1
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: []
+  notes: off5and9, double8and10, jamboree7
+- division: g56
+  name: j2
+  organization: j
+  qualifiedName: g56:j2
+  fullname: red
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: off5and9, double8and10, nohome7
+- division: g56
+  name: t1
+  organization: t
+  qualifiedName: g56:t1
+  fullname: blue
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: g56
+  name: t2
+  organization: t
+  qualifiedName: g56:t2
+  fullname: silver
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: g56
+  name: t3
+  organization: t
+  qualifiedName: g56:t3
+  fullname: white
+  byeWeeks: [ 4 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [  ]
+  notes: double1and2, bye4
+- division: g56
+  name: y
+  organization: y
+  qualifiedName: g56:y
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: g789
+  name: a
+  organization: a
+  qualifiedName: g789:a
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9, bye8and10
+- division: g789
+  name: c
+  organization: c
+  qualifiedName: g789:c
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: g789
+  name: j
+  organization: j
+  qualifiedName: g789:j
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: off5and9, double8and10, nohome7
+- division: g789
+  name: t1
+  organization: t
+  qualifiedName: g789:t1
+  fullname: blue
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: g789
+  name: t2
+  organization: t
+  qualifiedName: g789:t2
+  fullname: white
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: g789
+  name: y
+  organization: y
+  qualifiedName: g789:y
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b45
+  name: a1
+  organization: a
+  qualifiedName: b45:a1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: b45
+  name: a2
+  organization: a
+  qualifiedName: b45:a2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: cor-b45a2-b6a1, nohome5and8and9
+- division: b45
+  name: a3
+  organization: a
+  qualifiedName: b45:a3
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: b45
+  name: c1
+  organization: c
+  qualifiedName: b45:c1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: b45
+  name: c2
+  organization: c
+  qualifiedName: b45:c2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: b45
+  name: c3
+  organization: c
+  qualifiedName: b45:c3
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: b45
+  name: j1
+  organization: j
+  qualifiedName: b45:j1
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: off5and9, double8and10, nohome7
+- division: b45
+  name: j2
+  organization: j
+  qualifiedName: b45:j2
+  fullname: red
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: off5and9, double8and10, nohome7
+- division: b45
+  name: j3
+  organization: j
+  qualifiedName: b45:j3
+  fullname: green
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: []
+  notes: off5and9, double8and10, jamboree7
+- division: b45
+  name: j4
+  organization: j
+  qualifiedName: b45:j4
+  fullname: white
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: [  ]
+  notes: off5and9, double8and10, jamboree7
+- division: b45
+  name: t1
+  organization: t
+  qualifiedName: b45:t1
+  fullname: blue
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: b45
+  name: t2
+  organization: t
+  qualifiedName: b45:t2
+  fullname: white
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: nohome1and2
+- division: b45
+  name: y1
+  organization: y
+  qualifiedName: b45:y1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b45
+  name: y2
+  organization: y
+  qualifiedName: b45:y2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b6
+  name: a1
+  organization: a
+  qualifiedName: b6:a1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: cor-b45a2-b6a1, nohome5and8and9
+- division: b6
+  name: a2
+  organization: a
+  qualifiedName: b6:a2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: b6
+  name: c
+  organization: c
+  qualifiedName: b6:c
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: b6
+  name: j1
+  organization: j
+  qualifiedName: b6:j1
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks:  []
+  noHomeGymWeeks: [ 7 ]
+  notes: off5and9, double8and10, nohome7
+- division: b6
+  name: j2
+  organization: j
+  qualifiedName: b6:j2
+  fullname: red
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 7 ]
+  notes: cor-g4j2-b6j1, off5and9, double8and10, nohome7
+- division: b6
+  name: t1
+  organization: t
+  qualifiedName: b6:t1
+  fullname: blue
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: b6
+  name: t2
+  organization: t
+  qualifiedName: b6:t2
+  fullname: white
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: double1and2
+- division: b6
+  name: y1
+  organization: y
+  qualifiedName: b6:y1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b6
+  name: y2
+  organization: y
+  qualifiedName: b6:y2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b7
+  name: a
+  organization: a
+  qualifiedName: b7:a
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: b7
+  name: c
+  organization: c
+  qualifiedName: b7:c
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: b7
+  name: j1
+  organization: j
+  qualifiedName: b7:j1
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: []
+  notes: off5and9, double8and10, jamboree7
+- division: b7
+  name: j2
+  organization: j
+  qualifiedName: b7:j2
+  fullname: red
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: []
+  notes: off5and9, double8and10, jamboree7
+- division: b7
+  name: t
+  organization: t
+  qualifiedName: b7:t
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: [  ]
+  noHomeGymWeeks: []
+  notes: nohome1and2
+- division: b7
+  name: y1
+  organization: y
+  qualifiedName: b7:y1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b7
+  name: y2
+  organization: y
+  qualifiedName: b7:y2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b89
+  name: a
+  organization: a
+  qualifiedName: b89:a
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 5, 8, 9 ]
+  notes: nohome5and8and9
+- division: b89
+  name: c
+  organization: c
+  qualifiedName: b89:c
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [ 4 ]
+  notes: nohome4
+- division: b89
+  name: j1
+  organization: j
+  qualifiedName: b89:j1
+  fullname: black
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: [  ]
+  notes: off5and9, double8and10, jamboree7
+- division: b89
+  name: j2
+  organization: j
+  qualifiedName: b89:j2
+  fullname: red
+  byeWeeks: [ 5, 9 ]
+  fixedHomeGameWeeks: [ 7 ]
+  noHomeGymWeeks: []
+  notes: off5and9, double8and10, jamboree7
+- division: b89
+  name: t1
+  organization: t
+  qualifiedName: b89:t1
+  fullname: blue
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: [  ]
+  notes: double1and2
+- division: b89
+  name: t2
+  organization: t
+  qualifiedName: b89:t2
+  fullname: white
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes: bye1and2
+- division: b89
+  name: y1
+  organization: y
+  qualifiedName: b89:y1
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:
+- division: b89
+  name: y2
+  organization: y
+  qualifiedName: b89:y2
+  fullname:
+  byeWeeks: []
+  fixedHomeGameWeeks: []
+  noHomeGymWeeks: []
+  notes:

@@ -1,0 +1,211 @@
+gameCapacity:
+  - league: g4
+    week: 1
+    maximumGames: 2
+  - league: g4
+    week: 2
+    maximumGames: 2
+  - league: g4
+    week: 3
+    maximumGames: 3
+  - league: g4
+    week: 4
+    maximumGames: 3
+  - league: g4
+    week: 5
+    maximumGames: 2
+  - league: g4
+    week: 6
+    maximumGames: 3
+  - league: g4
+    week: 7
+    maximumGames: 3
+  - league: g4
+    week: 8
+    maximumGames: 3
+  - league: g4
+    week: 9
+    maximumGames: 2
+  - league: g4
+    week: 10
+    maximumGames: 3
+  - league: g56
+    week: 1
+    maximumGames: 4
+  - league: g56
+    week: 2
+    maximumGames: 4
+  - league: g56
+    week: 3
+    maximumGames: 4
+  - league: g56
+    week: 4
+    maximumGames: 4
+  - league: g56
+    week: 5
+    maximumGames: 3
+  - league: g56
+    week: 6
+    maximumGames: 4
+  - league: g56
+    week: 7
+    maximumGames: 4
+  - league: g56
+    week: 8
+    maximumGames: 4
+  - league: g56
+    week: 9
+    maximumGames: 3
+  - league: g56
+    week: 10
+    maximumGames: 4
+  - league: g789
+    week: 1
+    maximumGames: 3
+  - league: g789
+    week: 2
+    maximumGames: 3
+  - league: g789
+    week: 3
+    maximumGames: 3
+  - league: g789
+    week: 4
+    maximumGames: 3
+  - league: g789
+    week: 5
+    maximumGames: 2
+  - league: g789
+    week: 6
+    maximumGames: 3
+  - league: g789
+    week: 7
+    maximumGames: 3
+  - league: g789
+    week: 8
+    maximumGames: 2
+  - league: g789
+    week: 9
+    maximumGames: 2
+  - league: g789
+    week: 10
+    maximumGames: 2
+  - league: b45
+    week: 1
+    maximumGames: 7
+  - league: b45
+    week: 2
+    maximumGames: 7
+  - league: b45
+    week: 3
+    maximumGames: 7
+  - league: b45
+    week: 4
+    maximumGames: 7
+  - league: b45
+    week: 5
+    maximumGames: 5
+  - league: b45
+    week: 6
+    maximumGames: 7
+  - league: b45
+    week: 7
+    maximumGames: 7
+  - league: b45
+    week: 8
+    maximumGames: 7
+  - league: b45
+    week: 9
+    maximumGames: 5
+  - league: b45
+    week: 10
+    maximumGames: 7
+  - league: b6
+    week: 1
+    maximumGames: 4
+  - league: b6
+    week: 2
+    maximumGames: 4
+  - league: b6
+    week: 3
+    maximumGames: 4
+  - league: b6
+    week: 4
+    maximumGames: 4
+  - league: b6
+    week: 5
+    maximumGames: 3
+  - league: b6
+    week: 6
+    maximumGames: 4
+  - league: b6
+    week: 7
+    maximumGames: 4
+  - league: b6
+    week: 8
+    maximumGames: 4
+  - league: b6
+    week: 9
+    maximumGames: 3
+  - league: b6
+    week: 10
+    maximumGames: 4
+  - league: b7
+    week: 1
+    maximumGames: 3
+  - league: b7
+    week: 2
+    maximumGames: 3
+  - league: b7
+    week: 3
+    maximumGames: 3
+  - league: b7
+    week: 4
+    maximumGames: 3
+  - league: b7
+    week: 5
+    maximumGames: 2
+  - league: b7
+    week: 6
+    maximumGames: 3
+  - league: b7
+    week: 7
+    maximumGames: 3
+  - league: b7
+    week: 8
+    maximumGames: 3
+  - league: b7
+    week: 9
+    maximumGames: 2
+  - league: b7
+    week: 10
+    maximumGames: 3
+  - league: b89
+    week: 1
+    maximumGames: 3
+  - league: b89
+    week: 2
+    maximumGames: 3
+  - league: b89
+    week: 3
+    maximumGames: 4
+  - league: b89
+    week: 4
+    maximumGames: 4
+  - league: b89
+    week: 5
+    maximumGames: 3
+  - league: b89
+    week: 6
+    maximumGames: 4
+  - league: b89
+    week: 7
+    maximumGames: 4
+  - league: b89
+    week: 8
+    maximumGames: 4
+  - league: b89
+    week: 9
+    maximumGames: 3
+  - league: b89
+    week: 10
+    maximumGames: 4

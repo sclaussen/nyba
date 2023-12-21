@@ -1,0 +1,3100 @@
+# g4:j2 and b6:j1 need to play in the same gym
+# b45:a2 and b6:a1 need to play in the same gym
+teams:
+  - league: g4
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: g4
+    name: t1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: g4
+    name: t2
+    fullname:
+    byeWeeks: [ 1, 2 ]
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: bye requested
+    coaches:
+  - league: g4
+    name: j1
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed
+    coaches: alvin lin, newton wong
+  - league: g4
+    name: j2
+    fullname: red
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed, G4:J2 AND B6:J1 NEED TO PLAY IN THE SAME GYM
+    coaches: phil lee, joseph wong
+  - league: g4
+    name: y
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+
+  - league: g56
+    name: a1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: g56
+    name: a2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: g56
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: g56
+    name: j1
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, jeff jamboree home 7
+    coaches: eric yoshioka, jeff chan
+  - league: g56
+    name: j2
+    fullname: red
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed
+    coaches: beau hashiguchi, janet maldonado
+  - league: g56
+    name: t1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: g56
+    name: t2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: g56
+    name: t3
+    fullname:
+    byeWeeks: [ 4 ]
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [  ]
+    notes: tricity double weeks 1 and 2, bye week 4
+    coaches:
+  - league: g56
+    name: y
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+
+  - league: g789
+    name: a
+    fullname:
+    byeWeeks: [ 8, 10 ]
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9, bye week 8 and 10
+    coaches:
+  - league: g789
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: g789
+    name: j
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed
+    coaches: dan corkish, ernest lau
+  - league: g789
+    name: t1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: g789
+    name: t2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: g789
+    name: y
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+
+  - league: b45
+    name: a1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: b45
+    name: a2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9, b45:a2 and b6:a1 need to play in the same gym
+    coaches:
+  - league: b45
+    name: a3
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: b45
+    name: c1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: b45
+    name: c2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: b45
+    name: c3
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: b45
+    name: j1
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7, 8, 10 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed
+    coaches: andy lo, kou vu, bill lo
+  - league: b45
+    name: j2
+    fullname: red
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed
+    coaches: chris chin
+  - league: b45
+    name: j3
+    fullname: green
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, nick jamboree home 7
+    coaches: nick kwan, eric lee, mike nakanishi
+  - league: b45
+    name: j4
+    fullname: white
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [  ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, eric jamboree home 7
+    coaches: eric lee, aaron lee, drew generalao
+  - league: b45
+    name: t1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: b45
+    name: t2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 1, 2 ]
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: b45
+    name: y1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: b45
+    name: y2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+
+  - league: b6
+    name: a1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9, b45:a2 and b6:a1 need to play in the same gym
+    coaches:
+  - league: b6
+    name: a2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: b6
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: b6
+    name: j1
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, g4:j2 and b6:j1 need to play in the same gym, week 7 maxed
+    coaches: mike kato, mike mori, paul leung
+  - league: b6
+    name: j2
+    fullname: red
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 7 ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, week 7 maxed
+    coaches: newton wong, glenn young
+  - league: b6
+    name: t1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: b6
+    name: t2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: b6
+    name: y1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: b6
+    name: y2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+
+  - league: b7
+    name: a
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: b7
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: b7
+    name: j1
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, shane/jeff jamboree home 7
+    coaches: shane claussen, billy lai, jeff yoshimura
+  - league: b7
+    name: j2
+    fullname: red
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, craig jamboree home 7
+    coaches: gus maseba, emmon lew, craig tanabe
+  - league: b7
+    name: t
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [  ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 1, 2 ]
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: b7
+    name: y1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: b7
+    name: y2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+
+  - league: b89
+    name: a
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 5, 8, 9 ]
+    notes: No home gym on weeks 5, 8, and 9
+    coaches:
+  - league: b89
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 4 ]
+    notes: No home gym on week 4
+    coaches:
+  - league: b89
+    name: j1
+    fullname: black
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [  ]
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10 EXPIRED need to play 8 and 10 AWAY, andrew jamboree week 7
+    coaches: andrew urushima, evan tanaka
+  - league: b89
+    name: j2
+    fullname: red
+    byeWeeks: [ 5, 9 ]
+    fixedHomeGameWeeks: [ 7, 8, 10 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: jyo off weeks 5 and 9, jyo double weeks 8 and 10, jeff jamboree week 7
+    coaches: eric wong, pat lui, jeff yoshimura
+  - league: b89
+    name: t1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1, 2 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [  ]
+    notes: tricity double weeks 1 and 2
+    coaches:
+  - league: b89
+    name: t2
+    fullname:
+    byeWeeks: [ 1, 2 ]
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes: bye weeks 1 and 2
+    coaches:
+  - league: b89
+    name: y1
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: b89
+    name: y2
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+
+gameCapacity:
+  - league: g4
+    week: 1
+    maximumGames: 2
+    gamesAvailable: 2
+  - league: g4
+    week: 2
+    maximumGames: 2
+    gamesAvailable: 2
+  - league: g4
+    week: 3
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g4
+    week: 4
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g4
+    week: 5
+    maximumGames: 2
+    gamesAvailable: 2
+  - league: g4
+    week: 6
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g4
+    week: 7
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g4
+    week: 8
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g4
+    week: 9
+    maximumGames: 2
+    gamesAvailable: 2
+  - league: g4
+    week: 10
+    maximumGames: 3
+    gamesAvailable: 3
+
+
+  - league: g56
+    week: 1
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: g56
+    week: 2
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: g56
+    week: 3
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: g56
+    week: 4
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g56
+    week: 5
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g56
+    week: 6
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: g56
+    week: 7
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: g56
+    week: 8
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: g56
+    week: 9
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g56
+    week: 10
+    maximumGames: 4
+    gamesAvailable: 4
+
+
+  - league: g789
+    week: 1
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 2
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 3
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 4
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 5
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 6
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 7
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 8
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 9
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: g789
+    week: 10
+    maximumGames: 3
+    gamesAvailable: 3
+
+
+
+  - league: b45
+    week: 1
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 2
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 3
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 4
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 5
+    maximumGames: 5
+    gamesAvailable: 5
+  - league: b45
+    week: 6
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 7
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 8
+    maximumGames: 7
+    gamesAvailable: 7
+  - league: b45
+    week: 9
+    maximumGames: 5
+    gamesAvailable: 5
+  - league: b45
+    week: 10
+    maximumGames: 7
+    gamesAvailable: 7
+
+
+
+  - league: b6
+    week: 1
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 2
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 3
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 4
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 5
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b6
+    week: 6
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 7
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 8
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b6
+    week: 9
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b6
+    week: 10
+    maximumGames: 4
+    gamesAvailable: 4
+
+
+
+  - league: b7
+    week: 1
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 2
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 3
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 4
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 5
+    maximumGames: 2
+    gamesAvailable: 2
+  - league: b7
+    week: 6
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 7
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 8
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b7
+    week: 9
+    maximumGames: 2
+    gamesAvailable: 2
+  - league: b7
+    week: 10
+    maximumGames: 3
+    gamesAvailable: 3
+
+
+
+  - league: b89
+    week: 1
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 2
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 3
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 4
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 5
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b89
+    week: 6
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 7
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 8
+    maximumGames: 4
+    gamesAvailable: 4
+  - league: b89
+    week: 9
+    maximumGames: 3
+    gamesAvailable: 3
+  - league: b89
+    week: 10
+    maximumGames: 4
+    gamesAvailable: 4
+
+
+gymCapacity:
+  - gym: a
+    week: 1
+    maximum: 7
+    available: 7
+  - gym: a
+    week: 2
+    maximum: 7
+    available: 7
+  - gym: a
+    week: 3
+    maximum: 7
+    available: 7
+  - gym: a
+    week: 4
+    maximum: 7
+    available: 7
+  - gym: a
+    week: 5
+    maximum: 0
+    available: 0
+  - gym: a
+    week: 6
+    maximum: 7
+    available: 7
+  - gym: a
+    week: 7
+    maximum: 7
+    available: 7
+  - gym: a
+    week: 8
+    maximum: 0
+    available: 0
+  - gym: a
+    week: 9
+    maximum: 0
+    available: 0
+  - gym: a
+    week: 10
+    maximum: 7
+    available: 7
+
+  - gym: c
+    week: 1
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 2
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 3
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 4
+    maximum: 0
+    available: 0
+  - gym: c
+    week: 5
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 6
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 7
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 8
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 9
+    maximum: 5
+    available: 5
+  - gym: c
+    week: 10
+    maximum: 5
+    available: 5
+
+  - gym: j
+    week: 1
+    maximum: 7
+    available: 7
+  - gym: j
+    week: 2
+    maximum: 7
+    available: 7
+  - gym: j
+    week: 3
+    maximum: 7
+    available: 7
+  - gym: j
+    week: 4
+    maximum: 7
+    available: 7
+  - gym: j
+    week: 5
+    maximum: 0
+    available: 0
+  - gym: j
+    week: 6
+    maximum: 7
+    available: 7
+  - gym: j
+    week: 7
+    maximum: 7
+    available: 7
+  - gym: j
+    week: 8
+    maximum: 14
+    available: 14
+  - gym: j
+    week: 9
+    maximum: 0
+    available: 0
+  - gym: j
+    week: 10
+    maximum: 14
+    available: 14
+
+  - gym: t
+    week: 1
+    maximum: 10
+    available: 10
+  - gym: t
+    week: 2
+    maximum: 10
+    available: 10
+  - gym: t
+    week: 3
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 4
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 5
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 6
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 7
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 8
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 9
+    maximum: 5
+    available: 5
+  - gym: t
+    week: 10
+    maximum: 5
+    available: 5
+
+
+  - gym: y
+    week: 1
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 2
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 3
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 4
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 5
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 6
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 7
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 8
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 9
+    maximum: 5
+    available: 5
+  - gym: y
+    week: 10
+    maximum: 5
+    available: 5
+
+
+
+gymSlots:
+  - gym: a
+    week: 1
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 1
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 1
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 1
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 1
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 1
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 1
+    slot: 7
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+
+
+
+  - gym: c
+    week: 1
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 1
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 1
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 1
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 1
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+  - gym: j
+    week: 1
+    slot: 1
+    time: 9:30am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 1
+    slot: 2
+    time: 10:40am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 1
+    slot: 3
+    time: 11:50am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 1
+    slot: 4
+    time: 1:00pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 1
+    slot: 5
+    time: 2:10pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 1
+    slot: 6
+    time: 3:20pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 1
+    slot: 7
+    time: 4:30pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+
+
+  - gym: t
+    week: 1
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 1
+    slot: 2
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 1
+    slot: 3
+    time: 1:20pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 1
+    slot: 4
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 1
+    slot: 5
+    time: 2:30pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 1
+    slot: 6
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 1
+    slot: 7
+    time: 3:40pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 1
+    slot: 8
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 1
+    slot: 9
+    time: 4:50pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 1
+    slot: 10
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 1
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 1
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 1
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 1
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 1
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: a
+    week: 2
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 2
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 2
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 2
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 2
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 2
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 2
+    slot: 7
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+
+
+
+  - gym: c
+    week: 2
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 2
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 2
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 2
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 2
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+  - gym: j
+    week: 2
+    slot: 1
+    time: 9:30am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 2
+    slot: 2
+    time: 10:40am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 2
+    slot: 3
+    time: 11:50am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 2
+    slot: 4
+    time: 1:00pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 2
+    slot: 5
+    time: 2:10pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 2
+    slot: 6
+    time: 3:20pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 2
+    slot: 7
+    time: 4:30pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+
+
+  - gym: t
+    week: 2
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 2
+    slot: 2
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 2
+    slot: 3
+    time: 1:20pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 2
+    slot: 4
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 2
+    slot: 5
+    time: 2:30pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 2
+    slot: 6
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 2
+    slot: 7
+    time: 3:40pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 2
+    slot: 8
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 2
+    slot: 9
+    time: 4:50pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 2
+    slot: 10
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 2
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 2
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 2
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 2
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 2
+    slot: 5
+    time: 2:10pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+
+
+
+  - gym: a
+    week: 3
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 3
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 3
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 3
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 3
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 3
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 3
+    slot: 7
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+
+
+
+  - gym: c
+    week: 3
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 3
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 3
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 3
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 3
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+
+  - gym: j
+    week: 3
+    slot: 1
+    time: 9:30am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 3
+    slot: 2
+    time: 10:40am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 3
+    slot: 3
+    time: 11:50am
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 3
+    slot: 4
+    time: 1:00pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 3
+    slot: 5
+    time: 2:10pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 3
+    slot: 6
+    time: 3:20pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+  - gym: j
+    week: 3
+    slot: 7
+    time: 4:30pm
+    name: Hillsdale High
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+
+
+  - gym: t
+    week: 3
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 3
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 3
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 3
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+  - gym: t
+    week: 3
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Main)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+
+
+
+  - gym: y
+    week: 3
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 3
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 3
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 3
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 3
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: a
+    week: 4
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 4
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 4
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 4
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 4
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 4
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 4
+    slot: 7
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+
+
+
+  - gym: j
+    week: 4
+    slot: 1
+    time: 9:30am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 4
+    slot: 2
+    time: 10:40am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 4
+    slot: 3
+    time: 11:50am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 4
+    slot: 4
+    time: 1:00pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 4
+    slot: 5
+    time: 2:10pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 4
+    slot: 6
+    time: 3:20pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 4
+    slot: 7
+    time: 4:30pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+
+
+
+  - gym: t
+    week: 4
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 4
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 4
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 4
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 4
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 4
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 4
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 4
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 4
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 4
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: c
+    week: 5
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 5
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 5
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 5
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 5
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+
+  - gym: t
+    week: 5
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 5
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 5
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 5
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 5
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 5
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 5
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 5
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 5
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 5
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: a
+    week: 6
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 6
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 6
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 6
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 6
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 6
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 6
+    slot: 7
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+
+
+
+  - gym: c
+    week: 6
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 6
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 6
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 6
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 6
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+
+  - gym: j
+    week: 6
+    slot: 1
+    time: 9:30am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 6
+    slot: 2
+    time: 10:40am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 6
+    slot: 3
+    time: 11:50am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 6
+    slot: 4
+    time: 1:00pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 6
+    slot: 5
+    time: 2:10pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 6
+    slot: 6
+    time: 3:20pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 6
+    slot: 7
+    time: 4:30pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+
+
+  - gym: t
+    week: 6
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 6
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 6
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 6
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 6
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 6
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 6
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 6
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 6
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 6
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: a
+    week: 7
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 7
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 7
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 7
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 7
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 7
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 7
+    slot: 7
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+
+
+
+  - gym: c
+    week: 7
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 7
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 7
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 7
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 7
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+  - gym: j
+    week: 7
+    slot: 1
+    time: 9:30am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 7
+    slot: 2
+    time: 10:40am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 7
+    slot: 3
+    time: 11:50am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 7
+    slot: 4
+    time: 1:00pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 7
+    slot: 5
+    time: 2:10pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 7
+    slot: 6
+    time: 3:20pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 7
+    slot: 7
+    time: 4:30pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+
+
+  - gym: t
+    week: 7
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 7
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 7
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 7
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 7
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 7
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 7
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 7
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 7
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 7
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: c
+    week: 8
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 8
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 8
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 8
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 8
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+  - gym: j
+    week: 8
+    slot: 1
+    time: 9:30am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 2
+    time: 9:30am
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 8
+    slot: 3
+    time: 10:40am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 4
+    time: 10:40am
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 8
+    slot: 5
+    time: 11:50am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 6
+    time: 11:50am
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 8
+    slot: 7
+    time: 1:00pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 8
+    time: 1:00pm
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 8
+    slot: 9
+    time: 2:10pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 10
+    time: 2:10pm
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 8
+    slot: 11
+    time: 3:20pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 12
+    time: 3:20pm
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 8
+    slot: 13
+    time: 4:30pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 8
+    slot: 14
+    time: 4:30pm
+    name: TBD
+    address: TBD
+    map: TBD
+
+
+  - gym: t
+    week: 8
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 8
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 8
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 8
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 8
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 8
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 8
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 8
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 8
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 8
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+  - gym: c
+    week: 9
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: 30://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 9
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 9
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 9
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 9
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+
+  - gym: t
+    week: 9
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 9
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 9
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 9
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 9
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: y
+    week: 9
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 9
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 9
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 9
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 9
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+
+
+
+
+  - gym: a
+    week: 10
+    slot: 1
+    time: 10:00am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 10
+    slot: 2
+    time: 11:10am
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 10
+    slot: 3
+    time: 12:20pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 10
+    slot: 4
+    time: 1:30pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 10
+    slot: 5
+    time: 2:40pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+  - gym: a
+    week: 10
+    slot: 6
+    time: 3:50pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: 11:50am
+  - gym: a
+    week: 10
+
+
+    time: 4:00pm
+    name: JCCC
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: 11:50am
+  - gym: c
+    week: 10
+    slot: 1
+    time: 9:50am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 10
+    slot: 2
+    time: 11:00am
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 10
+    slot: 3
+    time: 12:10pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 10
+    slot: 4
+    time: 1:20pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+  - gym: c
+    week: 10
+    slot: 5
+    time: 2:30pm
+    name: Wilcox High (Aux)
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+
+
+
+
+  - gym: t
+    week: 10
+    slot: 1
+    time: 12:10pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 10
+    slot: 2
+    time: 1:20pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 10
+    slot: 3
+    time: 2:30pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 10
+    slot: 4
+    time: 3:40pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+  - gym: t
+    week: 10
+    slot: 5
+    time: 4:50pm
+    name: Mountain View High (Aux)
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+
+
+
+  - gym: j
+    week: 10
+    slot: 1
+    time: 9:30am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 2
+    time: 9:30am
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 10
+    slot: 3
+    time: 10:40am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 4
+    time: 10:40am
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 10
+    slot: 5
+    time: 11:50am
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 6
+    time: 11:50am
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 10
+    slot: 7
+    time: 1:00pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 8
+    time: 1:00pm
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 10
+    slot: 9
+    time: 2:10pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 10
+    time: 2:10pm
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 10
+    slot: 11
+    time: 3:20pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 12
+    time: 3:20pm
+    name: TBD
+    address: TBD
+    map: TBD
+  - gym: j
+    week: 10
+    slot: 13
+    time: 4:30pm
+    name: Aragon High
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+  - gym: j
+    week: 10
+    slot: 14
+    time: 4:30pm
+    name: TBD
+    address: TBD
+    map: TBD
+
+
+
+  - gym: y
+    week: 10
+    slot: 1
+    time: 1:00pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 10
+    slot: 2
+    time: 2:10pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 10
+    slot: 3
+    time: 3:20pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 10
+    slot: 4
+    time: 4:30pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+  - gym: y
+    week: 10
+    slot: 5
+    time: 5:40pm
+    name: George Washington High
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8

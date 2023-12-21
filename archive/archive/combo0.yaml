@@ -1,0 +1,2832 @@
+- league: g56
+  week: 1
+  homeTeam: a1
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 1
+  homeTeam: a3
+  awayTeam: t2
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 1
+  homeTeam: a1
+  awayTeam: j1
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 1
+  homeTeam: a2
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b7
+  week: 1
+  homeTeam: a
+  awayTeam: t
+  gym: a
+  id: 0
+  slot: 5
+  location:
+    name: JCCC
+    time: 2:40pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b89
+  week: 1
+  homeTeam: a
+  awayTeam: y1
+  gym: a
+  id: 0
+  slot: 6
+  location:
+    name: JCCC
+    time: 3:50pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 1
+  homeTeam: c1
+  awayTeam: j4
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 1
+  homeTeam: c3
+  awayTeam: j3
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b6
+  week: 1
+  homeTeam: c
+  awayTeam: j1
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b6
+  week: 1
+  homeTeam: j2
+  awayTeam: y2
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Hillsdale High
+    time: 9:30am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b7
+  week: 1
+  homeTeam: j1
+  awayTeam: y1
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: Hillsdale High
+    time: 10:40am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: g4
+  week: 1
+  homeTeam: t1
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Main)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g56
+  week: 1
+  homeTeam: t1
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 1
+  homeTeam: t2
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High Gym (Main)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g56
+  week: 1
+  homeTeam: t3
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g789
+  week: 1
+  homeTeam: t1
+  awayTeam: j
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High Gym (Main)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g789
+  week: 1
+  homeTeam: t2
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 6
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 1
+  homeTeam: t1
+  awayTeam: y1
+  gym: t
+  id: 0
+  slot: 7
+  location:
+    name: Mountain View High Gym (Main)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b6
+  week: 1
+  homeTeam: t1
+  awayTeam: a1
+  gym: t
+  id: 0
+  slot: 8
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b6
+  week: 1
+  homeTeam: t2
+  awayTeam: a2
+  gym: t
+  id: 0
+  slot: 9
+  location:
+    name: Mountain View High Gym (Main)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b89
+  week: 1
+  homeTeam: t1
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 10
+  location:
+    name: Mountain View High (Aux)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g4
+  week: 1
+  homeTeam: y
+  awayTeam: j2
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g789
+  week: 1
+  homeTeam: y
+  awayTeam: a
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 1
+  homeTeam: y2
+  awayTeam: j2
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 1
+  homeTeam: y2
+  awayTeam: j2
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g789
+  week: 2
+  homeTeam: a
+  awayTeam: y
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 2
+  homeTeam: a3
+  awayTeam: j4
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 2
+  homeTeam: a1
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 2
+  homeTeam: a2
+  awayTeam: y2
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 2
+  homeTeam: a1
+  awayTeam: j1
+  gym: a
+  id: 0
+  slot: 5
+  location:
+    name: JCCC
+    time: 2:40pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 2
+  homeTeam: a2
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 6
+  location:
+    name: JCCC
+    time: 3:50pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b7
+  week: 2
+  homeTeam: a
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 7
+  location:
+    name: JCCC
+    time: 4:00pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b89
+  week: 2
+  homeTeam: c
+  awayTeam: j2
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g56
+  week: 2
+  homeTeam: j2
+  awayTeam: a1
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Hillsdale High
+    time: 9:30am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b45
+  week: 2
+  homeTeam: j1
+  awayTeam: c2
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: Hillsdale High
+    time: 10:40am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b7
+  week: 2
+  homeTeam: j1
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Hillsdale High
+    time: 11:50am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b89
+  week: 2
+  homeTeam: j1
+  awayTeam: y2
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: Hillsdale High
+    time: 1:00pm
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: g4
+  week: 2
+  homeTeam: t1
+  awayTeam: j2
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High Gym (Main)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g56
+  week: 2
+  homeTeam: t1
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 2
+  homeTeam: t2
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High Gym (Main)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g56
+  week: 2
+  homeTeam: t3
+  awayTeam: a2
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g789
+  week: 2
+  homeTeam: t1
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High Gym (Main)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g789
+  week: 2
+  homeTeam: t2
+  awayTeam: j
+  gym: t
+  id: 0
+  slot: 6
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 2
+  homeTeam: t1
+  awayTeam: c3
+  gym: t
+  id: 0
+  slot: 7
+  location:
+    name: Mountain View High Gym (Main)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b6
+  week: 2
+  homeTeam: t1
+  awayTeam: y1
+  gym: t
+  id: 0
+  slot: 8
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g4
+  week: 2
+  homeTeam: y
+  awayTeam: j1
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 2
+  homeTeam: y1
+  awayTeam: j3
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 2
+  homeTeam: y2
+  awayTeam: c
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 2
+  homeTeam: y1
+  awayTeam: t
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 2
+  homeTeam: y1
+  awayTeam: t1
+  gym: y
+  id: 0
+  slot: 5
+  location:
+    name: Hillsdale High
+    time: 2:10pm
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: g56
+  week: 3
+  homeTeam: a1
+  awayTeam: t2
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g56
+  week: 3
+  homeTeam: a2
+  awayTeam: j1
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g789
+  week: 3
+  homeTeam: a
+  awayTeam: t1
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 3
+  homeTeam: a1
+  awayTeam: j4
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b7
+  week: 3
+  homeTeam: a
+  awayTeam: j1
+  gym: a
+  id: 0
+  slot: 5
+  location:
+    name: JCCC
+    time: 2:40pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g56
+  week: 3
+  homeTeam: c
+  awayTeam: j2
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g789
+  week: 3
+  homeTeam: c
+  awayTeam: t2
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 3
+  homeTeam: c2
+  awayTeam: t1
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b6
+  week: 3
+  homeTeam: c
+  awayTeam: j2
+  gym: c
+  id: 0
+  slot: 4
+  location:
+    name: Wilcox High (Aux)
+    time: 1:20pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b89
+  week: 3
+  homeTeam: c
+  awayTeam: j1
+  gym: c
+  id: 0
+  slot: 5
+  location:
+    name: Wilcox High (Aux)
+    time: 2:30pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g4
+  week: 3
+  homeTeam: j2
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Hillsdale High
+    time: 9:30am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: g4
+  week: 3
+  homeTeam: j1
+  awayTeam: y
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: Hillsdale High
+    time: 10:40am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: g789
+  week: 3
+  homeTeam: j
+  awayTeam: y
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Hillsdale High
+    time: 11:50am
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b45
+  week: 3
+  homeTeam: j1
+  awayTeam: a3
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: Hillsdale High
+    time: 1:00pm
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b45
+  week: 3
+  homeTeam: j2
+  awayTeam: c1
+  gym: j
+  id: 0
+  slot: 5
+  location:
+    name: Hillsdale High
+    time: 2:10pm
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b6
+  week: 3
+  homeTeam: j1
+  awayTeam: a2
+  gym: j
+  id: 0
+  slot: 6
+  location:
+    name: Hillsdale High
+    time: 3:20pm
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: b7
+  week: 3
+  homeTeam: j2
+  awayTeam: y2
+  gym: j
+  id: 0
+  slot: 7
+  location:
+    name: Hillsdale High
+    time: 4:30pm
+    address: 3115 Del Monte St, San Mateo, CA 94403
+    map: https://maps.app.goo.gl/1txjgHrVrvmZLbnT6
+- league: g4
+  week: 3
+  homeTeam: t1
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High Gym (Main)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b45
+  week: 3
+  homeTeam: t2
+  awayTeam: y1
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High Gym (Main)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b6
+  week: 3
+  homeTeam: t2
+  awayTeam: a1
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High Gym (Main)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b89
+  week: 3
+  homeTeam: t1
+  awayTeam: a
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High Gym (Main)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: b89
+  week: 3
+  homeTeam: t2
+  awayTeam: y2
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High Gym (Main)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/dpWV2qqcCZvcum6f7
+- league: g56
+  week: 3
+  homeTeam: y
+  awayTeam: t1
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 3
+  homeTeam: y2
+  awayTeam: j3
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 3
+  homeTeam: y1
+  awayTeam: t1
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 3
+  homeTeam: y1
+  awayTeam: c
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 3
+  homeTeam: y1
+  awayTeam: j2
+  gym: y
+  id: 0
+  slot: 5
+  location:
+    name: George Washington High
+    time: 5:40pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g56
+  week: 4
+  homeTeam: a2
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g789
+  week: 4
+  homeTeam: a
+  awayTeam: t2
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 4
+  homeTeam: a1
+  awayTeam: t2
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 4
+  homeTeam: a2
+  awayTeam: j4
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 4
+  homeTeam: a1
+  awayTeam: t1
+  gym: a
+  id: 0
+  slot: 5
+  location:
+    name: JCCC
+    time: 2:40pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b7
+  week: 4
+  homeTeam: a
+  awayTeam: c
+  gym: a
+  id: 0
+  slot: 6
+  location:
+    name: JCCC
+    time: 3:50pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b89
+  week: 4
+  homeTeam: a
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 7
+  location:
+    name: JCCC
+    time: 4:00pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g4
+  week: 4
+  homeTeam: j2
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Aragon High
+    time: 9:30am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g56
+  week: 4
+  homeTeam: j1
+  awayTeam: y
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: Aragon High
+    time: 10:40am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g789
+  week: 4
+  homeTeam: j
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Aragon High
+    time: 11:50am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 4
+  homeTeam: j1
+  awayTeam: c3
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: Aragon High
+    time: 1:00pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 4
+  homeTeam: j3
+  awayTeam: c1
+  gym: j
+  id: 0
+  slot: 5
+  location:
+    name: Aragon High
+    time: 2:10pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 4
+  homeTeam: j2
+  awayTeam: y2
+  gym: j
+  id: 0
+  slot: 6
+  location:
+    name: Aragon High
+    time: 3:20pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g4
+  week: 4
+  homeTeam: t2
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b6
+  week: 4
+  homeTeam: t2
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b7
+  week: 4
+  homeTeam: t
+  awayTeam: j2
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b89
+  week: 4
+  homeTeam: t2
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b89
+  week: 4
+  homeTeam: t1
+  awayTeam: y1
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High (Aux)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g789
+  week: 4
+  homeTeam: y
+  awayTeam: c
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 4
+  homeTeam: y1
+  awayTeam: c2
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 4
+  homeTeam: y1
+  awayTeam: j2
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 4
+  homeTeam: y1
+  awayTeam: j1
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g4
+  week: 5
+  homeTeam: c
+  awayTeam: t2
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g56
+  week: 5
+  homeTeam: c
+  awayTeam: t1
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 5
+  homeTeam: c1
+  awayTeam: t1
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b7
+  week: 5
+  homeTeam: c
+  awayTeam: y2
+  gym: c
+  id: 0
+  slot: 4
+  location:
+    name: Wilcox High (Aux)
+    time: 1:20pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b89
+  week: 5
+  homeTeam: c
+  awayTeam: t2
+  gym: c
+  id: 0
+  slot: 5
+  location:
+    name: Wilcox High (Aux)
+    time: 2:30pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g4
+  week: 5
+  homeTeam: t1
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 5
+  homeTeam: t3
+  awayTeam: a1
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g789
+  week: 5
+  homeTeam: t2
+  awayTeam: a
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 5
+  homeTeam: t2
+  awayTeam: a2
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b6
+  week: 5
+  homeTeam: t2
+  awayTeam: y1
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High (Aux)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 5
+  homeTeam: y
+  awayTeam: a2
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 5
+  homeTeam: y1
+  awayTeam: c3
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 5
+  homeTeam: y2
+  awayTeam: a1
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 5
+  homeTeam: y1
+  awayTeam: a
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 5
+  homeTeam: y1
+  awayTeam: a
+  gym: y
+  id: 0
+  slot: 5
+  location:
+    name: George Washington High
+    time: 5:40pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g56
+  week: 6
+  homeTeam: a1
+  awayTeam: j1
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g56
+  week: 6
+  homeTeam: a2
+  awayTeam: t2
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g789
+  week: 6
+  homeTeam: a
+  awayTeam: j
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 6
+  homeTeam: a3
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 6
+  homeTeam: a1
+  awayTeam: c
+  gym: a
+  id: 0
+  slot: 5
+  location:
+    name: JCCC
+    time: 2:40pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 6
+  homeTeam: a2
+  awayTeam: y2
+  gym: a
+  id: 0
+  slot: 6
+  location:
+    name: JCCC
+    time: 3:50pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b89
+  week: 6
+  homeTeam: a
+  awayTeam: t1
+  gym: a
+  id: 0
+  slot: 7
+  location:
+    name: JCCC
+    time: 4:00pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g4
+  week: 6
+  homeTeam: c
+  awayTeam: j2
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g56
+  week: 6
+  homeTeam: c
+  awayTeam: y
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g789
+  week: 6
+  homeTeam: c
+  awayTeam: t1
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 6
+  homeTeam: c1
+  awayTeam: j3
+  gym: c
+  id: 0
+  slot: 4
+  location:
+    name: Wilcox High (Aux)
+    time: 1:20pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b7
+  week: 6
+  homeTeam: c
+  awayTeam: j2
+  gym: c
+  id: 0
+  slot: 5
+  location:
+    name: Wilcox High (Aux)
+    time: 2:30pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g4
+  week: 6
+  homeTeam: j1
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Aragon High
+    time: 9:30am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g56
+  week: 6
+  homeTeam: j2
+  awayTeam: t3
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: Aragon High
+    time: 10:40am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 6
+  homeTeam: j1
+  awayTeam: y1
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Aragon High
+    time: 11:50am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 6
+  homeTeam: j4
+  awayTeam: c2
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: Aragon High
+    time: 1:00pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b6
+  week: 6
+  homeTeam: j2
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 5
+  location:
+    name: Aragon High
+    time: 2:10pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b6
+  week: 6
+  homeTeam: j1
+  awayTeam: y1
+  gym: j
+  id: 0
+  slot: 6
+  location:
+    name: Aragon High
+    time: 3:20pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b89
+  week: 6
+  homeTeam: j2
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 7
+  location:
+    name: Aragon High
+    time: 4:30pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g789
+  week: 6
+  homeTeam: t2
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 6
+  homeTeam: t2
+  awayTeam: c3
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b7
+  week: 6
+  homeTeam: t
+  awayTeam: a
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b89
+  week: 6
+  homeTeam: t2
+  awayTeam: y1
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g4
+  week: 6
+  homeTeam: y
+  awayTeam: t1
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 6
+  homeTeam: y2
+  awayTeam: t1
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 6
+  homeTeam: y2
+  awayTeam: j1
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 6
+  homeTeam: y2
+  awayTeam: j1
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g56
+  week: 7
+  homeTeam: a2
+  awayTeam: t3
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 7
+  homeTeam: a2
+  awayTeam: j1
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 7
+  homeTeam: a1
+  awayTeam: j2
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 7
+  homeTeam: a2
+  awayTeam: t2
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: g4
+  week: 7
+  homeTeam: c
+  awayTeam: t1
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g789
+  week: 7
+  homeTeam: c
+  awayTeam: j
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 7
+  homeTeam: c2
+  awayTeam: t2
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 7
+  homeTeam: c3
+  awayTeam: j2
+  gym: c
+  id: 0
+  slot: 4
+  location:
+    name: Wilcox High (Aux)
+    time: 1:20pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b7
+  week: 7
+  homeTeam: c
+  awayTeam: y1
+  gym: c
+  id: 0
+  slot: 5
+  location:
+    name: Wilcox High (Aux)
+    time: 2:30pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g56
+  week: 7
+  homeTeam: j1
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Aragon High
+    time: 9:30am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 7
+  homeTeam: j3
+  awayTeam: a3
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: Aragon High
+    time: 10:40am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 7
+  homeTeam: j4
+  awayTeam: c1
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Aragon High
+    time: 11:50am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b7
+  week: 7
+  homeTeam: j1
+  awayTeam: y2
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: Aragon High
+    time: 1:00pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b7
+  week: 7
+  homeTeam: j2
+  awayTeam: t
+  gym: j
+  id: 0
+  slot: 5
+  location:
+    name: Aragon High
+    time: 2:10pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b89
+  week: 7
+  homeTeam: j1
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 6
+  location:
+    name: Aragon High
+    time: 3:20pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b89
+  week: 7
+  homeTeam: j2
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 7
+  location:
+    name: Aragon High
+    time: 4:30pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g4
+  week: 7
+  homeTeam: t2
+  awayTeam: j2
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 7
+  homeTeam: t2
+  awayTeam: j2
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 7
+  homeTeam: t1
+  awayTeam: a1
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g789
+  week: 7
+  homeTeam: t1
+  awayTeam: a
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b6
+  week: 7
+  homeTeam: t1
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High (Aux)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g4
+  week: 7
+  homeTeam: y
+  awayTeam: j1
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g789
+  week: 7
+  homeTeam: y
+  awayTeam: t2
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 7
+  homeTeam: y2
+  awayTeam: a1
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 7
+  homeTeam: y2
+  awayTeam: c
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 7
+  homeTeam: y1
+  awayTeam: c
+  gym: y
+  id: 0
+  slot: 5
+  location:
+    name: George Washington High
+    time: 5:40pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g56
+  week: 8
+  homeTeam: c
+  awayTeam: a1
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 8
+  homeTeam: c1
+  awayTeam: j1
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 8
+  homeTeam: c3
+  awayTeam: y2
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b6
+  week: 8
+  homeTeam: c
+  awayTeam: y2
+  gym: c
+  id: 0
+  slot: 4
+  location:
+    name: Wilcox High (Aux)
+    time: 1:20pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b89
+  week: 8
+  homeTeam: c
+  awayTeam: t1
+  gym: c
+  id: 0
+  slot: 5
+  location:
+    name: Wilcox High (Aux)
+    time: 2:30pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g4
+  week: 8
+  homeTeam: j1
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Aragon High
+    time: 9:30am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g4
+  week: 8
+  homeTeam: j2
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: TBD
+    time: 9:30am
+    address: TBD
+    map: TBD
+- league: g56
+  week: 8
+  homeTeam: j1
+  awayTeam: t3
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Aragon High
+    time: 10:40am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g56
+  week: 8
+  homeTeam: j2
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: TBD
+    time: 10:40am
+    address: TBD
+    map: TBD
+- league: g789
+  week: 8
+  homeTeam: j
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 5
+  location:
+    name: Aragon High
+    time: 11:50am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 8
+  homeTeam: j2
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 6
+  location:
+    name: TBD
+    time: 11:50am
+    address: TBD
+    map: TBD
+- league: b45
+  week: 8
+  homeTeam: j3
+  awayTeam: c2
+  gym: j
+  id: 0
+  slot: 7
+  location:
+    name: Aragon High
+    time: 1:00pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 8
+  homeTeam: j4
+  awayTeam: a1
+  gym: j
+  id: 0
+  slot: 8
+  location:
+    name: TBD
+    time: 1:00pm
+    address: TBD
+    map: TBD
+- league: b6
+  week: 8
+  homeTeam: j1
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 9
+  location:
+    name: Aragon High
+    time: 2:10pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b6
+  week: 8
+  homeTeam: j2
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 10
+  location:
+    name: TBD
+    time: 2:10pm
+    address: TBD
+    map: TBD
+- league: b7
+  week: 8
+  homeTeam: j1
+  awayTeam: a
+  gym: j
+  id: 0
+  slot: 11
+  location:
+    name: Aragon High
+    time: 3:20pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b7
+  week: 8
+  homeTeam: j2
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 12
+  location:
+    name: TBD
+    time: 3:20pm
+    address: TBD
+    map: TBD
+- league: b89
+  week: 8
+  homeTeam: j1
+  awayTeam: a
+  gym: j
+  id: 0
+  slot: 13
+  location:
+    name: Aragon High
+    time: 4:30pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b89
+  week: 8
+  homeTeam: j2
+  awayTeam: y2
+  gym: j
+  id: 0
+  slot: 14
+  location:
+    name: TBD
+    time: 4:30pm
+    address: TBD
+    map: TBD
+- league: g4
+  week: 8
+  homeTeam: t2
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g789
+  week: 8
+  homeTeam: t1
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 8
+  homeTeam: t1
+  awayTeam: a2
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b7
+  week: 8
+  homeTeam: t
+  awayTeam: y2
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 8
+  homeTeam: y
+  awayTeam: t2
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b45
+  week: 8
+  homeTeam: y1
+  awayTeam: a3
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 8
+  homeTeam: y1
+  awayTeam: a2
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 8
+  homeTeam: y1
+  awayTeam: t2
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g4
+  week: 9
+  homeTeam: c
+  awayTeam: t2
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: 30://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g789
+  week: 9
+  homeTeam: c
+  awayTeam: a
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 9
+  homeTeam: c2
+  awayTeam: a2
+  gym: c
+  id: 0
+  slot: 3
+  location:
+    name: Wilcox High (Aux)
+    time: 12:10pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b6
+  week: 9
+  homeTeam: c
+  awayTeam: t2
+  gym: c
+  id: 0
+  slot: 4
+  location:
+    name: Wilcox High (Aux)
+    time: 1:20pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b7
+  week: 9
+  homeTeam: c
+  awayTeam: y1
+  gym: c
+  id: 0
+  slot: 5
+  location:
+    name: Wilcox High (Aux)
+    time: 2:30pm
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g56
+  week: 9
+  homeTeam: t2
+  awayTeam: a2
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 9
+  homeTeam: t1
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 9
+  homeTeam: t3
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 9
+  homeTeam: t1
+  awayTeam: a1
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b89
+  week: 9
+  homeTeam: t2
+  awayTeam: a
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High (Aux)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 9
+  homeTeam: y2
+  awayTeam: a3
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 9
+  homeTeam: y1
+  awayTeam: a1
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b6
+  week: 9
+  homeTeam: y2
+  awayTeam: a2
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 9
+  homeTeam: y2
+  awayTeam: t
+  gym: y
+  id: 0
+  slot: 4
+  location:
+    name: George Washington High
+    time: 4:30pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b89
+  week: 9
+  homeTeam: y2
+  awayTeam: c
+  gym: y
+  id: 0
+  slot: 5
+  location:
+    name: George Washington High
+    time: 5:40pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g56
+  week: 10
+  homeTeam: a1
+  awayTeam: t1
+  gym: a
+  id: 0
+  slot: 1
+  location:
+    name: JCCC
+    time: 10:00am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 10
+  homeTeam: a3
+  awayTeam: c1
+  gym: a
+  id: 0
+  slot: 2
+  location:
+    name: JCCC
+    time: 11:10am
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b6
+  week: 10
+  homeTeam: a2
+  awayTeam: y1
+  gym: a
+  id: 0
+  slot: 3
+  location:
+    name: JCCC
+    time: 12:20pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b89
+  week: 10
+  homeTeam: a
+  awayTeam: y2
+  gym: a
+  id: 0
+  slot: 4
+  location:
+    name: JCCC
+    time: 1:30pm
+    address: 1840 Sutter St, San Francisco, CA 94115
+    map: https://maps.app.goo.gl/UeeBcB7iGQUw6gxY9
+- league: b45
+  week: 10
+  homeTeam: c2
+  awayTeam: y2
+  gym: c
+  id: 0
+  slot: 1
+  location:
+    name: Wilcox High (Aux)
+    time: 9:50am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: b45
+  week: 10
+  homeTeam: c3
+  awayTeam: a1
+  gym: c
+  id: 0
+  slot: 2
+  location:
+    name: Wilcox High (Aux)
+    time: 11:00am
+    address: 3250 Monroe St, Santa Clara, CA 95051
+    map: https://maps.app.goo.gl/ppytZ3k2Jdz5iG1x8
+- league: g4
+  week: 10
+  homeTeam: j1
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 1
+  location:
+    name: Aragon High
+    time: 9:30am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g4
+  week: 10
+  homeTeam: j2
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 2
+  location:
+    name: TBD
+    time: 9:30am
+    address: TBD
+    map: TBD
+- league: g56
+  week: 10
+  homeTeam: j1
+  awayTeam: a2
+  gym: j
+  id: 0
+  slot: 3
+  location:
+    name: Aragon High
+    time: 10:40am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g56
+  week: 10
+  homeTeam: j2
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 4
+  location:
+    name: TBD
+    time: 10:40am
+    address: TBD
+    map: TBD
+- league: g789
+  week: 10
+  homeTeam: j
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 5
+  location:
+    name: Aragon High
+    time: 11:50am
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 10
+  homeTeam: j2
+  awayTeam: y1
+  gym: j
+  id: 0
+  slot: 6
+  location:
+    name: TBD
+    time: 11:50am
+    address: TBD
+    map: TBD
+- league: b45
+  week: 10
+  homeTeam: j3
+  awayTeam: a2
+  gym: j
+  id: 0
+  slot: 7
+  location:
+    name: Aragon High
+    time: 1:00pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b45
+  week: 10
+  homeTeam: j4
+  awayTeam: t1
+  gym: j
+  id: 0
+  slot: 8
+  location:
+    name: TBD
+    time: 1:00pm
+    address: TBD
+    map: TBD
+- league: b6
+  week: 10
+  homeTeam: j1
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 9
+  location:
+    name: Aragon High
+    time: 2:10pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b6
+  week: 10
+  homeTeam: j2
+  awayTeam: c
+  gym: j
+  id: 0
+  slot: 10
+  location:
+    name: TBD
+    time: 2:10pm
+    address: TBD
+    map: TBD
+- league: b7
+  week: 10
+  homeTeam: j2
+  awayTeam: y1
+  gym: j
+  id: 0
+  slot: 11
+  location:
+    name: Aragon High
+    time: 3:20pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: b89
+  week: 10
+  homeTeam: j1
+  awayTeam: y1
+  gym: j
+  id: 0
+  slot: 12
+  location:
+    name: TBD
+    time: 3:20pm
+    address: TBD
+    map: TBD
+- league: b89
+  week: 10
+  homeTeam: j2
+  awayTeam: t2
+  gym: j
+  id: 0
+  slot: 13
+  location:
+    name: Aragon High
+    time: 4:30pm
+    address: 900 Alameda de las Pulgas, San Mateo, CA 94402
+    map: https://maps.app.goo.gl/Z2X5CVy2ZyGwfdpp9
+- league: g4
+  week: 10
+  homeTeam: t2
+  awayTeam: y
+  gym: t
+  id: 0
+  slot: 1
+  location:
+    name: Mountain View High (Aux)
+    time: 12:10pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b45
+  week: 10
+  homeTeam: t2
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 2
+  location:
+    name: Mountain View High (Aux)
+    time: 1:20pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b6
+  week: 10
+  homeTeam: t1
+  awayTeam: y2
+  gym: t
+  id: 0
+  slot: 3
+  location:
+    name: Mountain View High (Aux)
+    time: 2:30pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b7
+  week: 10
+  homeTeam: t
+  awayTeam: j1
+  gym: t
+  id: 0
+  slot: 4
+  location:
+    name: Mountain View High (Aux)
+    time: 3:40pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: b89
+  week: 10
+  homeTeam: t1
+  awayTeam: c
+  gym: t
+  id: 0
+  slot: 5
+  location:
+    name: Mountain View High (Aux)
+    time: 4:50pm
+    address: 3535 Truman Ave, Mountain View, CA 94040
+    map: https://maps.app.goo.gl/tKugf9UutcqDeBvY7
+- league: g56
+  week: 10
+  homeTeam: y
+  awayTeam: t3
+  gym: y
+  id: 0
+  slot: 1
+  location:
+    name: George Washington High
+    time: 1:00pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: g789
+  week: 10
+  homeTeam: y
+  awayTeam: t1
+  gym: y
+  id: 0
+  slot: 2
+  location:
+    name: George Washington High
+    time: 2:10pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8
+- league: b7
+  week: 10
+  homeTeam: y2
+  awayTeam: a
+  gym: y
+  id: 0
+  slot: 3
+  location:
+    name: George Washington High
+    time: 3:20pm
+    address: 600 32nd Ave, San Francisco, CA 94121
+    map: https://maps.app.goo.gl/4HLxeEwvUYxkU3hg8

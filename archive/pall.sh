@@ -1,0 +1,19 @@
+#!/bin/sh
+node pick.js 3 31 31 30 30 30 27 pick1.yaml && node printNormalized pick1.yaml > pick1-normalized.out
+node pick.js 3 28 31 30 30 30 27 pick2a.yaml && node printNormalized pick2a.yaml > pick2a-normalized.out
+node pick.js 3 29 26 30 30 30 27 pick2b.yaml && node printNormalized pick2b.yaml > pick2b-normalized.out
+node pick.js 4 29 26 30 30 30 27 pick2c.yaml && node printNormalized pick2c.yaml > pick2c-normalized.out
+node pick.js 4 31 31 30 30 30 27 pick2d.yaml && node printNormalized pick2d.yaml > pick2d-normalized.out
+node pick.js 5 29 26 30 30 30 27 pick2e.yaml && node printNormalized pick2e.yaml > pick2e-normalized.out
+node pick.js 5 31 31 30 30 30 27 pick2f.yaml && node printNormalized pick2f.yaml > pick2f-normalized.out
+node pick.js 6 29 26 30 30 30 27 pick2g.yaml && node printNormalized pick2g.yaml > pick2g-normalized.out
+node pick.js 6 31 31 30 30 30 27 pick2h.yaml && node printNormalized pick2h.yaml > pick2h-normalized.out
+node pick.js 7 31 31 30 30 30 27 pick2i.yaml && node printNormalized pick2i.yaml > pick2i-normalized.out
+node pick.js 7 6 9 8 7 10 9 pick2j.yaml && node printNormalized pick2j.yaml > pick2j-normalized.out
+node pick.js 7 9 8 8 7 9 9 pick2k.yaml && node printNormalized pick2k.yaml > pick2k-normalized.out
+node pick.js 8 31 31 30 30 30 27 pick2l.yaml && node printNormalized pick2l.yaml > pick2l-normalized.out
+node pick.js 8 6 9 8 7 10 9 pick2m.yaml && node printNormalized pick2m.yaml > pick2m-normalized.out
+node pick.js 8 9 8 8 7 9 9 pick2n.yaml && node printNormalized pick2n.yaml > pick2n-normalized.out
+node pick.js 9 31 31 30 30 30 27 pick2o.yaml && node printNormalized pick2o.yaml > pick2o-normalized.out
+node pick.js 9 6 9 8 7 10 9 pick2p.yaml && node printNormalized pick2p.yaml > pick2p-normalized.out
+node pick.js 9 9 8 8 7 9 9 pick2q.yaml && node printNormalized pick2q.yaml > pick2q-normalized.out

@@ -1,0 +1,23 @@
+#!/bin/sh
+# node combos.js 1 10 combos110.yaml
+# node combos.js 2 11 combos211.yaml
+node combos.js 3 12 combos312.yaml &
+node combos.js 4 13 combos413.yaml &
+node combos.js 5 14 combos514.yaml &
+node combos.js 6 15 combos615.yaml &
+node combos.js 7 16 combos716.yaml &
+node combos.js 8 17 combos817.yaml &
+node combos.js 9 18 combos918.yaml &
+node combos.js 10 19 combos1019.yaml &
+node combos.js 11 20 combos1120.yaml &
+node combos.js 12 21 combos1221.yaml &
+node combos.js 13 22 combos1322.yaml &
+node combos.js 14 23 combos1423.yaml &
+node combos.js 15 24 combos1524.yaml &
+node combos.js 16 25 combos1625.yaml &
+node combos.js 17 26 combos1726.yaml &
+node combos.js 18 27 combos1827.yaml &
+node combos.js 19 28 combos1928.yaml &
+node combos.js 20 29 combos2029.yaml &
+node combos.js 21 30 combos2130.yaml &
+node combos.js 22 31 combos2231.yaml &

@@ -1,0 +1,236 @@
+g4        	1   	c   	j1  	j	9:30am	Hillsdale High           
+g4        	1   	j2  	y   	y	1:00pm	George Washington High   
+g4        	2   	j2  	c   	c	9:50am	Wilcox High (Aux)        
+g4        	2   	j1  	t1  	t	12:10pm	Mountain View High (Main)
+g4        	3   	j1  	t2  	t	3:40pm	Mountain View High (Main)
+g4        	3   	j2  	t1  	t	12:10pm	Mountain View High (Main)
+g4        	4   	t1  	j1  	j	9:30am	Aragon High              
+g4        	4   	c   	j2  	j	1:00pm	Aragon High              
+g4        	4   	t2  	y   	y	1:00pm	George Washington High   
+g4        	5   	t2  	c   	c	9:50am	Wilcox High (Aux)        
+g4        	5   	t1  	y   	y	1:00pm	George Washington High   
+g4        	6   	j1  	c   	c	9:50am	Wilcox High (Aux)        
+g4        	6   	t1  	j2  	j	9:30am	Aragon High              
+g4        	6   	y   	t2  	t	1:20pm	Mountain View High (Aux) 
+g4        	7   	j2  	t2  	t	12:10pm	Mountain View High (Aux) 
+g4        	7   	j1  	y   	y	1:00pm	George Washington High   
+g4        	8   	y   	j2  	j	9:30am	Aragon High              
+g4        	8   	t2  	j1  	j	9:30am	Capuchino High (Small)   
+g4        	8   	c   	t1  	t	12:10pm	Mountain View High (Aux) 
+g4        	9   	c   	t2  	t	12:10pm	Mountain View High (Aux) 
+g4        	9   	y   	t1  	t	1:20pm	Mountain View High (Aux) 
+g4        	10  	t1  	c   	c	9:50am	Wilcox High (Aux)        
+g4        	10  	t2  	j2  	j	9:30am	Aragon High              
+g4        	10  	y   	j1  	j	9:30am	Capuchino High (Small)   
+g56       	1   	a2  	j2  	j	11:50am	Hillsdale High           
+g56       	1   	a1  	t1  	t	12:10pm	Mountain View High (Main)
+g56       	1   	c   	t2  	t	12:10pm	Mountain View High (Aux) 
+g56       	1   	j1  	t3  	t	1:20pm	Mountain View High (Main)
+g56       	2   	j2  	t1  	t	12:10pm	Mountain View High (Aux) 
+g56       	2   	j1  	t2  	t	1:20pm	Mountain View High (Aux) 
+g56       	2   	c   	t3  	t	2:30pm	Mountain View High (Main)
+g56       	2   	a2  	y   	y	1:00pm	George Washington High   
+g56       	3   	t3  	a2  	a	10:00am	JCCC                     
+g56       	3   	j2  	c   	c	9:50am	Wilcox High (Aux)        
+g56       	3   	t1  	j1  	j	9:30am	Hillsdale High           
+g56       	3   	a1  	y   	y	1:00pm	George Washington High   
+g56       	4   	j1  	a1  	a	10:00am	JCCC                     
+g56       	4   	j2  	a2  	a	11:10am	JCCC                     
+g56       	4   	y   	t1  	t	12:10pm	Mountain View High (Aux) 
+g56       	5   	a2  	t2  	t	12:10pm	Mountain View High (Aux) 
+g56       	5   	y   	t3  	t	1:20pm	Mountain View High (Aux) 
+g56       	6   	j1  	a2  	a	10:00am	JCCC                     
+g56       	6   	t3  	a1  	a	11:10am	JCCC                     
+g56       	6   	t1  	c   	c	11:00am	Wilcox High (Aux)        
+g56       	6   	t2  	j2  	j	10:40am	Aragon High              
+g56       	7   	y   	a2  	a	10:00am	JCCC                     
+g56       	7   	j2  	a1  	a	11:10am	JCCC                     
+g56       	7   	t2  	j1  	j	9:30am	Aragon High              
+g56       	7   	c   	t1  	t	1:20pm	Mountain View High (Aux) 
+g56       	8   	t3  	c   	c	9:50am	Wilcox High (Aux)        
+g56       	8   	y   	j1  	j	10:40am	Aragon High              
+g56       	8   	t1  	j2  	j	11:50am	Aragon High              
+g56       	8   	a1  	t2  	t	1:20pm	Mountain View High (Aux) 
+g56       	9   	t2  	c   	c	9:50am	Wilcox High (Aux)        
+g56       	9   	a1  	t3  	t	2:30pm	Mountain View High (Aux) 
+g56       	9   	t1  	y   	y	1:00pm	George Washington High   
+g56       	10  	t2  	a1  	a	10:00am	JCCC                     
+g56       	10  	a2  	j1  	j	10:40am	Aragon High              
+g56       	10  	t3  	j2  	j	11:50am	Aragon High              
+g56       	10  	c   	y   	y	1:00pm	George Washington High   
+g789      	1   	t1  	c   	c	9:50am	Wilcox High (Aux)        
+g789      	1   	a   	j   	j	1:00pm	Hillsdale High           
+g789      	1   	y   	t2  	t	1:20pm	Mountain View High (Aux) 
+g789      	2   	c   	t1  	t	2:30pm	Mountain View High (Aux) 
+g789      	2   	j   	t2  	t	3:40pm	Mountain View High (Main)
+g789      	2   	a   	y   	y	2:10pm	George Washington High   
+g789      	3   	t2  	a   	a	11:10am	JCCC                     
+g789      	3   	j   	c   	c	11:00am	Wilcox High (Aux)        
+g789      	3   	y   	t1  	t	1:20pm	Mountain View High (Main)
+g789      	4   	t1  	a   	a	12:20pm	JCCC                     
+g789      	4   	y   	j   	j	2:10pm	Aragon High              
+g789      	4   	c   	t2  	t	1:20pm	Mountain View High (Aux) 
+g789      	5   	a   	c   	c	11:00am	Wilcox High (Aux)        
+g789      	6   	c   	a   	a	12:20pm	JCCC                     
+g789      	6   	t2  	j   	j	11:50am	Aragon High              
+g789      	6   	t1  	y   	y	1:00pm	George Washington High   
+g789      	7   	j   	a   	a	12:20pm	JCCC                     
+g789      	7   	t2  	c   	c	9:50am	Wilcox High (Aux)        
+g789      	8   	t1  	j   	j	11:50am	Capuchino High (Small)   
+g789      	8   	y   	t2  	t	2:30pm	Mountain View High (Aux) 
+g789      	9   	a   	t1  	t	3:40pm	Mountain View High (Aux) 
+g789      	9   	t2  	y   	y	2:10pm	George Washington High   
+g789      	10  	j   	t1  	t	12:10pm	Mountain View High (Aux) 
+g789      	10  	c   	y   	y	2:10pm	George Washington High   
+b45       	1   	c2  	a1  	a	10:00am	JCCC                     
+b45       	1   	y2  	a3  	a	11:10am	JCCC                     
+b45       	1   	c1  	j1  	j	2:10pm	Hillsdale High           
+b45       	1   	c3  	j4  	j	3:20pm	Hillsdale High           
+b45       	1   	j3  	t1  	t	2:30pm	Mountain View High (Main)
+b45       	1   	j2  	y1  	y	2:10pm	George Washington High   
+b45       	2   	t2  	a2  	a	10:00am	JCCC                     
+b45       	2   	j1  	a3  	a	12:20pm	JCCC                     
+b45       	2   	j3  	c2  	c	11:00am	Wilcox High (Aux)        
+b45       	2   	j4  	c1  	c	12:10pm	Wilcox High (Aux)        
+b45       	2   	c3  	j2  	j	4:30pm	Hillsdale High           
+b45       	2   	y1  	t1  	t	3:40pm	Mountain View High (Aux) 
+b45       	3   	t1  	a2  	a	12:20pm	JCCC                     
+b45       	3   	j4  	a3  	a	2:40pm	JCCC                     
+b45       	3   	j3  	c3  	c	12:10pm	Wilcox High (Aux)        
+b45       	3   	a1  	j1  	j	10:40am	Hillsdale High           
+b45       	3   	j2  	t2  	t	2:30pm	Mountain View High (Main)
+b45       	3   	c2  	y2  	y	2:10pm	George Washington High   
+b45       	4   	j4  	a1  	a	1:30pm	JCCC                     
+b45       	4   	a2  	j1  	j	11:50am	Aragon High              
+b45       	4   	j3  	t2  	t	2:30pm	Mountain View High (Aux) 
+b45       	4   	j2  	y2  	y	2:10pm	George Washington High   
+b45       	4   	a3  	y1  	y	3:20pm	George Washington High   
+b45       	5   	a2  	c2  	c	12:10pm	Wilcox High (Aux)        
+b45       	5   	t2  	c1  	c	2:30pm	Wilcox High (Aux)        
+b45       	5   	c3  	y2  	y	2:10pm	George Washington High   
+b45       	6   	j4  	a2  	a	1:30pm	JCCC                     
+b45       	6   	c3  	a1  	a	3:50pm	JCCC                     
+b45       	6   	y2  	c1  	c	12:10pm	Wilcox High (Aux)        
+b45       	6   	c2  	j1  	j	1:00pm	Aragon High              
+b45       	6   	t1  	j3  	j	2:10pm	Aragon High              
+b45       	6   	a3  	j2  	j	3:20pm	Aragon High              
+b45       	6   	y1  	t2  	t	2:30pm	Mountain View High (Aux) 
+b45       	7   	c1  	a1  	a	1:30pm	JCCC                     
+b45       	7   	a2  	c3  	c	11:00am	Wilcox High (Aux)        
+b45       	7   	a3  	c2  	c	12:10pm	Wilcox High (Aux)        
+b45       	7   	y1  	j3  	j	10:40am	Aragon High              
+b45       	7   	y2  	j4  	j	11:50am	Aragon High              
+b45       	7   	j2  	t1  	t	2:30pm	Mountain View High (Aux) 
+b45       	7   	j1  	t2  	t	3:40pm	Mountain View High (Aux) 
+b45       	8   	a3  	c3  	c	11:00am	Wilcox High (Aux)        
+b45       	8   	t1  	c2  	c	12:10pm	Wilcox High (Aux)        
+b45       	8   	a2  	j2  	j	1:00pm	Capuchino High (Small)   
+b45       	8   	t2  	j3  	j	1:00pm	Aragon High              
+b45       	8   	a1  	j4  	j	2:10pm	Aragon High              
+b45       	8   	j1  	y2  	y	1:00pm	George Washington High   
+b45       	8   	c1  	y1  	y	2:10pm	George Washington High   
+b45       	9   	t1  	c1  	c	11:00am	Wilcox High (Aux)        
+b45       	9   	a1  	y1  	y	3:20pm	George Washington High   
+b45       	10  	y1  	a2  	a	11:10am	JCCC                     
+b45       	10  	t2  	a3  	a	1:30pm	JCCC                     
+b45       	10  	j1  	c3  	c	11:00am	Wilcox High (Aux)        
+b45       	10  	a1  	j2  	j	11:50am	Capuchino High (Small)   
+b45       	10  	c1  	j3  	j	1:00pm	Aragon High              
+b45       	10  	c2  	j4  	j	1:00pm	Capuchino High (Small)   
+b45       	10  	y2  	t1  	t	1:20pm	Mountain View High (Aux) 
+b6        	1   	j1  	a2  	a	12:20pm	JCCC                     
+b6        	1   	y1  	j2  	j	10:40am	Hillsdale High           
+b6        	1   	a1  	t1  	t	2:30pm	Mountain View High (Aux) 
+b6        	1   	c   	t2  	t	3:40pm	Mountain View High (Main)
+b6        	2   	c   	a1  	a	11:10am	JCCC                     
+b6        	2   	j2  	t1  	t	1:20pm	Mountain View High (Main)
+b6        	2   	y2  	t2  	t	4:50pm	Mountain View High (Main)
+b6        	2   	j1  	y1  	y	3:20pm	George Washington High   
+b6        	3   	t2  	a1  	a	1:30pm	JCCC                     
+b6        	3   	t1  	a2  	a	3:50pm	JCCC                     
+b6        	3   	j2  	c   	c	1:20pm	Wilcox High (Aux)        
+b6        	3   	j1  	y2  	y	4:30pm	George Washington High   
+b6        	4   	c   	a2  	a	3:50pm	JCCC                     
+b6        	4   	a1  	j2  	j	10:40am	Aragon High              
+b6        	4   	y1  	j1  	j	3:20pm	Aragon High              
+b6        	4   	t2  	y2  	y	4:30pm	George Washington High   
+b6        	5   	a1  	c   	c	1:20pm	Wilcox High (Aux)        
+b6        	5   	y2  	t1  	t	2:30pm	Mountain View High (Aux) 
+b6        	5   	a2  	y1  	y	3:20pm	George Washington High   
+b6        	6   	y2  	a1  	a	2:40pm	JCCC                     
+b6        	6   	t1  	j1  	j	4:30pm	Aragon High              
+b6        	6   	j2  	t2  	t	12:10pm	Mountain View High (Aux) 
+b6        	6   	c   	y1  	y	2:10pm	George Washington High   
+b6        	7   	t2  	a2  	a	2:40pm	JCCC                     
+b6        	7   	j1  	c   	c	1:20pm	Wilcox High (Aux)        
+b6        	7   	t1  	y1  	y	3:20pm	George Washington High   
+b6        	7   	j2  	y2  	y	2:10pm	George Washington High   
+b6        	8   	t1  	j2  	j	10:40am	Capuchino High (Small)   
+b6        	8   	a1  	j1  	j	2:10pm	Capuchino High (Small)   
+b6        	8   	y1  	t2  	t	3:40pm	Mountain View High (Aux) 
+b6        	8   	a2  	y2  	y	3:20pm	George Washington High   
+b6        	9   	a2  	c   	c	12:10pm	Wilcox High (Aux)        
+b6        	10  	y1  	a1  	a	12:20pm	JCCC                     
+b6        	10  	y2  	j2  	j	10:40am	Capuchino High (Small)   
+b6        	10  	t2  	j1  	j	2:10pm	Aragon High              
+b6        	10  	a2  	t1  	t	2:30pm	Mountain View High (Aux) 
+b7        	1   	c   	j2  	j	4:30pm	Hillsdale High           
+b7        	1   	a   	y1  	y	4:30pm	George Washington High   
+b7        	1   	j1  	y2  	y	3:20pm	George Washington High   
+b7        	2   	y2  	a   	a	1:30pm	JCCC                     
+b7        	2   	j2  	c   	c	1:20pm	Wilcox High (Aux)        
+b7        	2   	y1  	j1  	j	3:20pm	Hillsdale High           
+b7        	3   	c   	a   	a	5:00pm	JCCC                     
+b7        	3   	j2  	t   	t	4:50pm	Mountain View High (Main)
+b7        	3   	j1  	y1  	y	3:20pm	George Washington High   
+b7        	4   	j1  	a   	a	2:40pm	JCCC                     
+b7        	4   	c   	t   	t	3:40pm	Mountain View High (Aux) 
+b7        	4   	j2  	y1  	y	5:40pm	George Washington High   
+b7        	5   	y1  	t   	t	3:40pm	Mountain View High (Aux) 
+b7        	5   	a   	y2  	y	4:30pm	George Washington High   
+b7        	6   	t   	a   	a	5:00pm	JCCC                     
+b7        	6   	j1  	c   	c	2:30pm	Wilcox High (Aux)        
+b7        	6   	j2  	y2  	y	3:20pm	George Washington High   
+b7        	7   	c   	j1  	j	3:20pm	Aragon High              
+b7        	7   	y2  	j2  	j	2:10pm	Aragon High              
+b7        	7   	a   	t   	t	4:50pm	Mountain View High (Aux) 
+b7        	8   	t   	c   	c	1:20pm	Wilcox High (Aux)        
+b7        	8   	y2  	j1  	j	3:20pm	Aragon High              
+b7        	8   	y1  	j2  	j	4:30pm	Aragon High              
+b7        	9   	y1  	c   	c	1:20pm	Wilcox High (Aux)        
+b7        	9   	t   	y2  	y	4:30pm	George Washington High   
+b7        	10  	t   	j1  	j	3:20pm	Aragon High              
+b7        	10  	a   	j2  	j	4:30pm	Aragon High              
+b7        	10  	y2  	y1  	y	3:20pm	George Washington High   
+b89       	1   	y1  	a   	a	1:30pm	JCCC                     
+b89       	1   	j2  	c   	c	11:00am	Wilcox High (Aux)        
+b89       	1   	j1  	t1  	t	3:40pm	Mountain View High (Aux) 
+b89       	2   	j2  	a   	a	2:40pm	JCCC                     
+b89       	2   	c   	t1  	t	4:50pm	Mountain View High (Aux) 
+b89       	2   	j1  	y2  	y	4:30pm	George Washington High   
+b89       	3   	y2  	c   	c	2:30pm	Wilcox High (Aux)        
+b89       	3   	t1  	j1  	j	11:50am	Hillsdale High           
+b89       	3   	t2  	j2  	j	1:00pm	Hillsdale High           
+b89       	4   	j1  	a   	a	5:00pm	JCCC                     
+b89       	4   	t1  	j2  	j	4:30pm	Aragon High              
+b89       	4   	y1  	t2  	t	4:50pm	Mountain View High (Aux) 
+b89       	5   	y2  	t2  	t	4:50pm	Mountain View High (Aux) 
+b89       	5   	c   	y1  	y	5:40pm	George Washington High   
+b89       	6   	j2  	t2  	t	3:40pm	Mountain View High (Aux) 
+b89       	6   	j1  	y1  	y	4:30pm	George Washington High   
+b89       	6   	a   	y2  	y	5:40pm	George Washington High   
+b89       	7   	c   	a   	a	3:50pm	JCCC                     
+b89       	7   	t2  	j1  	j	1:00pm	Aragon High              
+b89       	7   	y2  	j2  	j	4:30pm	Aragon High              
+b89       	7   	t1  	y1  	y	4:30pm	George Washington High   
+b89       	8   	c   	j1  	j	3:20pm	Capuchino High (Small)   
+b89       	8   	y1  	j2  	j	4:30pm	Capuchino High (Small)   
+b89       	8   	a   	t1  	t	4:50pm	Mountain View High (Aux) 
+b89       	8   	t2  	y2  	y	4:30pm	George Washington High   
+b89       	9   	y1  	c   	c	2:30pm	Wilcox High (Aux)        
+b89       	9   	a   	t2  	t	4:50pm	Mountain View High (Aux) 
+b89       	9   	t1  	y2  	y	5:40pm	George Washington High   
+b89       	10  	t2  	c   	c	12:10pm	Wilcox High (Aux)        
+b89       	10  	y2  	j1  	j	3:20pm	Capuchino High (Small)   
+b89       	10  	j2  	t1  	t	3:40pm	Mountain View High (Aux) 
+b89       	10  	a   	y1  	y	4:30pm	George Washington High   

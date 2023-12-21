@@ -1,0 +1,105 @@
+teams:
+  - league: test
+    name: a
+    fullname:
+    byeWeeks: [ 4 ]
+    fixedHomeGameWeeks: [ 1 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: [ 3, 5 ]
+    notes:
+    coaches:
+  - league: test
+    name: b
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ 1 ]
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: test
+    name: c
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: [ ]
+    fixedAwayGameWeeks: [ 1, 2 ]
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: test
+    name: d
+    fullname: black
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: [ ]
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: test
+    name: e
+    fullname: red
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: [ ]
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: test
+    name: f
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: test
+    name: g
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+  - league: test
+    name: h
+    fullname:
+    byeWeeks: []
+    fixedHomeGameWeeks: []
+    fixedAwayGameWeeks: []
+    noHomeGymWeeks: []
+    notes:
+    coaches:
+
+gameCapacity:
+  - league: test
+    week: 1
+    maximumGames: 4
+  - league: test
+    week: 2
+    maximumGames: 4
+  - league: test
+    week: 3
+    maximumGames: 4
+  - league: test
+    week: 4
+    maximumGames: 4
+  - league: test
+    week: 5
+    maximumGames: 4
+  - league: test
+    week: 6
+    maximumGames: 4
+  - league: test
+    week: 7
+    maximumGames: 4
+  - league: test
+    week: 8
+    maximumGames: 4
+  - league: test
+    week: 9
+    maximumGames: 4
+  - league: test
+    week: 10
+    maximumGames: 4
